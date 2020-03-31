@@ -15,3 +15,4 @@ markdown: kramdown
 permalink: /:year/:month/:title
 sass:
     style: compressed
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
