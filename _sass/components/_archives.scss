@@ -40,8 +40,13 @@
 
     h3 {
         @include fs--body;
+        align: left;
     }
-
+    h3 span {
+        display: inline-block;
+        width: 6rem;
+        color: #515862;
+    }
     p {
         @include fs--body;
         color: #515862;
