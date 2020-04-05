@@ -1,0 +1,22 @@
+I"C<h4 id="source-中国人民银行论文货币政策的市场化协同与大数据机制研究员--邹平座">Source: <a href="https://www.chainnews.com/zh-hant/articles/551734637322.htm">中国人民银行论文：货币政策的市场化协同与大数据机制研究员 — 邹平座</a></h4>
+
+<p>This report by People Bank of China touched upon ideas and visions that resonate with my understanding of various ideas and projects in the Ethereum community (for completely different ends perhaps), thus I am motivated to translate it into English.</p>
+
+<hr />
+
+<h2 id="the-synergy-from-the-marketization-of-monetary-policy-and-the-research-on-big-data-mechanism">The Synergy from the Marketization of Monetary Policy and the Research on Big Data Mechanism</h2>
+<p>Zou Pingzuo, chief researcher at People’s
+Bank of China</p>
+
+<h4 id="question-1-is-the-gdp-number-reported-by-the-national-bureau-of-statistics-of-china-nbs-accurate">Question 1: Is the GDP number reported by the National Bureau of Statistics of China (NBS) accurate?</h4>
+
+<p>This question touches the heart of macroeconomy policy making. According to research, the statistics reported by the NBS does not reflect the true GDP, wherein the error is considerably large. Due to country-to-country differences in their conditions, as well as the different bandwidth and coverage in statistics gathering, there is no value in comparing GDPs across different countries. The dogmatic application of traditional monetary policy model will result in clear monetary policy failure. Therefore, the statistics from the NBS shall not serve as the only data that drives policy making; we need to build big data model for GDP and implement marketization, fine-grain and dynamic data management.</p>
+
+<p>Due to its important role in policy making, the measurement of GDP shall tolerate no compromise at all. In 2015, IMF predicted that we have approached the end of the American Era — China’s GDP based on Purchasing Power Parity (PPP) will surpass the US in 5 years — and that 2016 will be the first year of the Chinese Era. This statement was an atomic bomb to the western countries and fueled controversy. The western media voiced their doubt and anxiety. In reality, this conclusion was complete bullshit. The reason is that the PPP was derived from the chosen basket of goods, but the estimates of their true prices were erroneous. Currently the price of major agricultural produce and the price of durable consumer goods based on PPP in China are higher than the western countries. IMF’s conclusion is therefore invalid.</p>
+
+<p>(<em>从我的研究经历来讲，基本上不能采用IMF的研究结论和研究方法。我参加过IMF的全球央行高级管理人员培训班，他们使用的很多研究方法根本不适合中国国情，比如生命周期曲线理论是该组织经常拿来分析投资与储蓄率的工具，但是他们忽略了各国的传统习惯和特殊的经济结构。中国是以家庭为经济的基本细胞，生命周期理论则仿照美国等发达国家以个人为经济基本细胞，这两种结构形成的生命周期曲线是非常不同的，一个基本上是正态分布，一个是线性向上的。中国及东亚国家的储蓄率一定是高于西方国家。</em>)</p>
+
+<p>On the other side of the coin, we should acknowledge that China’s GDP has been grossly underestimated, which is an important aspect of the Chinese characteristics. That there is massive leakage in GDP statistics measurement should be recognized, otherwise government failure will become the norm, and decisions will always be made from grossly incomplete information.</p>
+
+<p>(<em>中国的GDP一直难以识别清楚，不仅仅是统计局的问题，而在于中国的特殊性，这个问题我早就关注到。中国的M2/GDP高达200%以上，明显与中国目前的金融深度不合，一方面分子M2可能被金融结构的问题高估很多，主要原因在于发源于计划经济的金融体系，以资本为导向的直接融资体系以及货币市场发育不足，导致中国金融结构以直接融资为主，从而使得大量资金集中于银行体系，甚至出现空转。另一个方面GDP由于种种原因又被低估。（近几年由于大量微观主体灰色经济的消失在一定程度上减轻了这个问题，同时也大大降低了中国经济的总量和动力。中国成千上万的小微企业如同”斯汤达靴子下的蚂蚁”，自生自灭，微观环境的恶化，很多这种企业走上了不归之路，这可能是中国经济看不见的最大的损失。他们是中国经济发展的土壤。）。</em>)</p>
+:ET
