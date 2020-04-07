@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The PBOC report: a digital currency pegged to human productivity (Part 1/4)"
-date:   2020-04-02 00:00:00 -0500
+title:  "The PBOC report: a digital currency pegged to individual values (Part 1/4)"
+date:   2020-04-03 00:00:00 -0500
 categories: crypto
 ---
 #### Source: [中国人民银行论文：货币政策的市场化协同与大数据机制研究 — 邹平座](https://www.chainnews.com/zh-hant/articles/551734637322.htm)
@@ -43,7 +43,7 @@ From a data standpoint, China's M2/GDP is apparently higher than other countries
 
 Indeed, M2/GDP is an important indicator for a country's macroeconomic policy-making. To understand it better, we need to answer 3 questions:
 1. What is China's GDP?
-2. How to solve for accurate GDP statistics in real time?
+2. How to solve for accurate and timely GDP statistics?
 3. In the face of skyrocketing uncertainty, where should China's monetary policies go?
 
 (*China is unique in its challenges and economic patterns, which calls for unique problem-solving approaches.*)
