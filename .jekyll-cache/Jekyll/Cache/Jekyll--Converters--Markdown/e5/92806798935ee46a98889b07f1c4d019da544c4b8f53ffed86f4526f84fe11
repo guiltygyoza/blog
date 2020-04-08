@@ -1,0 +1,102 @@
+I"�/<h4 id="source-中国人民银行论文货币政策的市场化协同与大数据机制研究--邹平座">Source: <a href="https://www.chainnews.com/zh-hant/articles/551734637322.htm">中国人民银行论文：货币政策的市场化协同与大数据机制研究 — 邹平座</a></h4>
+
+<p>This report by People Bank of China touched upon ideas and visions that resonate with my understanding of various ideas and projects in the Ethereum community (for completely different ends perhaps), thus I am motivated to translate it into English.</p>
+
+<hr />
+
+<h2 id="the-synergy-from-the-marketization-of-monetary-policy-and-the-research-on-big-data-mechanism">The Synergy from the Marketization of Monetary Policy and the Research on Big Data Mechanism</h2>
+<p>Zou Pingzuo, chief researcher at People’s Bank of China</p>
+
+<h3 id="question-2-how-to-solve-for-accurate-timely-and-sufficient-gdp-statistics">Question 2: How to solve for accurate, timely, and sufficient GDP statistics?</h3>
+
+<p><strong>My proposal is: explore marketized big data, analyze the process of GDP statistics formation at the micro scale, and construct a new univariate econometric model based on individual value function.</strong></p>
+
+<p>The modern time calls for a new macroeconomic data industry, where modern information technology is fully leveraged to build a macroeconomic big data system that is real-time, dynamic, and accurate, and to transform this process into a process of value creation. The fourth plenary meeting of the nineteenth Central Committee of the CPC made it very clear that data is a mean of production and is involved in economic resource allocation in China. Large-scale macroeconomic models will be built on this foundation, solve for accurate and timely economic big data and achieve objectivity and timeliness in our monetary policy-making.</p>
+
+<h4 id="1-multivariate-big-data-model-for-gdp">1. Multivariate big data model for GDP</h4>
+<p>We shall first construct the multivariate big data for GDP by considering the four sectors: families (f), businesses (b), governments (g) and exports (e). The GDP equals to the sum of value functions of all sectors:</p>
+
+<p><img src="/assets/eq1.svg" alt="equation" /></p>
+
+<p>Given that, we can solve for both output-based and income-based GDP. From the income perspective, we shall consider:</p>
+<ol>
+  <li>labor income</li>
+  <li>business revenue</li>
+  <li>tax revenue</li>
+  <li>export revenue</li>
+</ol>
+
+<p>From the output perspective, we shall consider:</p>
+<ol>
+  <li>consumption</li>
+  <li>investment</li>
+  <li>government spending</li>
+  <li>oversea spending</li>
+</ol>
+
+<h4 id="2-univariate-big-data-for-gdp">2. Univariate big data for GDP</h4>
+<p>Second, we consider the univariate big data for GDP — the big data of every single citizen’s economic record. We shall create the markets their transaction structures for these data, as well as the legal entities that provide custody for these data so that the data property right of every single citizen is authenticated and protected. Every citizen will own his/her data as his/her asset, and consequently, individual balance sheets and survival statistics will be created. The univariate model is simple but extremely powerful because by viewing the individuals as the only variable, where every citizen’s economic value, labor income, capital gains, expenses and investments are all available in the data markets, solving for GDP becomes straightforward:</p>
+
+<p><img src="/assets/eq2.svg" alt="equation" /></p>
+
+<p>Where <em>P</em> is our country’s population. The 2 GDP results shall validate each other. This simplification of data model will be connected to our digital currency and ultimately to our monetary policy-making.</p>
+
+<p>We shall recognize that solving for multivariate functions is extremely difficult — the gathering of statistics is a complex process, the calculation is difficult, and more importantly there are enormous uncertainties and intractability in decomposing values across sectors and entities. Nevertheless, the analysis of the multivariate functions help us understand the mechanism of value propagation as well as how to validate the results.</p>
+
+<p>Solving univariate value functions for GDP will massively simplify the process of economic analysis, making the verification of taxation feasible.</p>
+
+<p>From the perspective of research methodology, we shall acknowledge that:</p>
+<ul>
+  <li>The sum of all individual’s economic value is the total economic value of our society;</li>
+  <li>The time integral of all individual’s economic value growth rate over a time period yields us our GDP over the same time period.</li>
+  <li>This univariate economic model will concretize our society’s goals and directions in value production. Because ultimately, the goal of all human’s economic activities is to serve the humans and improve the economic values of humans.</li>
+  <li>To this day we have been mistakenly using the values of commodities and currencies as the goal of our economic growth, which has led to money fetishism and commodity fetishism, misleading our society and causing enormous wealth gap and moral hazards.</li>
+  <li>Solving GDP via univariate model will turn every individual’s economic data into real digital assets. Together with digital currency based on blockchain technology, this digital currency will no longer serve only as a unit of account for value but also as a mean to create value. Once we reach this goal, our monetary system and monetary policy will enter a new era.</li>
+</ul>
+
+<p>(<em>传统经济学都是把商品价值或价格变量作为价值函数的主变量，这种函数模式有违价值本意。价值是一种对人的有用性，价值也是由人创造的。价值函数是一个连续的函数，这种函数改变了以往价值函数的三个断点：供给与需求的断点、市场与社会的断点、人与自然的断点。科技革命与信息革命最伟大的意义在于价值革命，特别是区块链技术与大数据技术使每个人的价值得以发现、管理与创新，并使货币与它的根本功能-价值尺度一体化，从而消除了通货膨胀与通货紧缩的可能性。货币是能够创造价值的，关键是什么货币。这个可能是新的数字货币最为重要的功能与意义。</em>)</p>
+
+<h4 id="3-construct-big-data-models-for-consumption-and-investments-and-the-associated-systems-of-market-operators-and-participants">3. Construct big data models for consumption and investments, and the associated systems of market operators and participants</h4>
+
+<p>The value of any market is information and value discovery. Here, we will create:</p>
+<ul>
+  <li>a management system of consumption and supply chain data, and</li>
+  <li>a management system of investment values
+Then we shall privatize these 2 systems into markets.</li>
+</ul>
+
+<p>Our first step is to construct the mathematical relationship between GDP and individual economic value, consumption and investment.</p>
+<ul>
+  <li>Each individual’s economic value <em>v</em> is comprised of <em>v_l</em>, the net flow of value, and <em>v_w</em>, the stock of value. GDP shall equal to the time integral of all individual’s economic value growth over a period of time.</li>
+</ul>
+
+<p><img src="/assets/eq3.svg" alt="equation" /></p>
+
+<ul>
+  <li><em>v_c</em> denotes value spent on consumption, while <em>v_i</em> denotes value spent on investments. GDP shall also equal to the time integral of all individual’s <em>v_c</em> and <em>v_i</em> over the same period of time.</li>
+</ul>
+
+<p><img src="/assets/eq4.svg" alt="equation" /></p>
+
+<ul>
+  <li><em>v_rl</em> denotes labor income, while <em>v_rk</em> denotes capital gains. Again, GDP shall also equal to the time integral of all individual’s <em>v_rl</em> and <em>v_rk</em> over the same period of time.</li>
+</ul>
+
+<p><img src="/assets/eq5.svg" alt="equation" /></p>
+
+<p>With further research we conclude that these equations coincide with the production function and the economic growth function in traditional economics, while also coincide with Marx’s labor theory of value. If we succeed at solving every individual’s economic value via big data and blockchain technology, we will also solve the historic puzzle of Marxist theory.</p>
+
+<p>(<em>马克思劳动价值论有2个重要的问题，一是马克思求解价值也是从商品开始，认为劳动是商品的函数。二是由于时代技术的限制，马克思无法求解简单劳动与复杂劳动，并且采取了平均法处理，正是这一处理忽视了人的价值差异的重要性，陷入了平均主义。这也是后来很多社会主义国家面临的重要难题之一。</em>)</p>
+
+<p>下面我们再分析一下西方经济学中的生产函数和素洛模型的经济增长理论与人的价值函数的关系。研究发现人的价值函数理论和这两个理论是吻合的，有所不同的是人的价值函数的生产理论和增长理论，使得经济分析由多变量变成了单变量。也就是说纷繁复杂的经济运动，其实只有一个变量在周转，如果我们能求解这个变量，经济学就变得科学化和简明化。信息技术的发展，科技革命为我们解决了这一问题。</p>
+
+<p>公式3和4证明了以人的价值作为单变量的生产函数和经济增长函数。一是用人的价值取代劳动与资本，并把劳动作为人的价值流量，资本作为人的价值存量，实际上还有一个重要的意义在于优化了经济分析模型，同时使得原有函数的不合理性得到改善[xviii]。二是单变量生产函数与增长函数，通过区块链和大数据求解的生产与增长理论更加具有科学性和准确性，革命性地改变传统经济学的弊端[xix]。</p>
+
+<p>第二步，我们需要发现单变量大数据和区块链模型的消费函数和投资函数的微观机制[xx]。</p>
+
+<p>世界经济从商品经济转向数字经济一个重要的标志就是传统的会计管理价值的模型转向区块链管理价值。经济体发生裂变，股份制经济转向通证制经济。区块链赋予每个人分布式账户，用以管理和核算人的价值，从而实现经济制度的民主化。股票是一种以股权为分配红利的凭证，但是数字经济背景下，每个人的数据具有价值，参与分配，就出现了以人的价值凭证-通证（token），它是人的价值凭证，用区块链核算。这个转变改变了人类的分配制度，使得每个人都有参与分配的权利。每个人的大数据是科学计量的，本质上反映一个人创造价值的能力。通证经济将使人类社会的文明前进一大步[xxi]，充分发现人的价值，更好管理人的价值，更多创造人的价值。在这种制度下每个人都有一基于个人价值的自由权利，不再有剥削和不平等。</p>
+
+<p>在此，TokenⅤ=bIock（C）+block（i）。大数据公司B托管每个人的消费数据与投资数据，并且在法律上通过托管与确权，形成清晰的产权，这种产权参与大数据公司B的价值分配。这个过程通过瓦尔拉斯均衡与超级账户，发现准确的消费数据和投资数据，最终求解准确的GDP[xxii]。兰德尔.奈特的理论仍然是沿着效用价值论的思路展开研究，并且没有考虑现代信息经济学对价值计量和价值模型的革命性影响。本文提出的微观市场化逻辑是宏观经济模型介入了微观市场，并且创造价值。所用的理论是基于区块链的人的价值理论。有意思的是奈特认为货币创造价值，创造的过程是通过解决信息不对称问题而扩大了生产。本文也是提出了货币创造价值的观点，因为货币就是价值的本身，创造了货币就创造了价值[xxiii]。在这个问题上美国具有在全球创造价值并占有别国人价值的手段，世界经济面临被美国再一次占有并垄断的可能。</p>
+
+<h4 id="4-construct-big-data-models-for-income-and-the-associated-systems-of-market-operators-and-participants">4. Construct big data models for income, and the associated systems of market operators and participants</h4>
+:ET

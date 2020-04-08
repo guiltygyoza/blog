@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The PBOC report: a digital currency pegged to individual values (Part 2/4)"
+title:  "PBOC: a digital currency pegged to the values of individuals (Part 2/4)"
 date:   2020-04-03 00:00:00 -0500
 categories: crypto
 ---
@@ -15,9 +15,9 @@ Zou Pingzuo, chief researcher at People’s Bank of China
 
 #### Question 1: Is the GDP number reported by the National Bureau of Statistics of China (NBS) accurate?
 
-**This question touches the heart of macroeconomic policy-making. I opined that the statistics reported by the NBS does not reflect the true GDP, wherein the error is considerably large.** Due to country-to-country differences in their conditions, as well as the different capacities in statistics gathering, there is no value in comparing GDPs across different countries. The dogmatic application of traditional monetary policy model will result in clear monetary policy failure. Therefore, the statistics from the NBS shall not serve as the only data that drives policy making; **we need to build big data model for GDP and implement marketization, fine-grain and dynamic data management.**
+**This question touches the heart of macroeconomic policy implementation. I opined that the statistics reported by the NBS does not reflect the true GDP, wherein the error is considerably large.** Due to country-to-country differences in their conditions, as well as the different capacities in statistics gathering, there is no value in comparing GDPs across different countries. The dogmatic application of traditional monetary policy model will result in clear monetary policy failure. Therefore, the statistics from the NBS shall not serve as the only data that drives policy implementation; **we need to build big data model for GDP and implement marketization, fine-grain and dynamic data management.**
 
-Due to its important role in policy making, the measurement of GDP shall tolerate no compromise at all. In 2015, IMF predicted that we have approached the end of the American Era — China's GDP based on Purchasing Power Parity (PPP) will surpass the US in 5 years — and that 2016 will be the first year of the Chinese Era. This statement was an atomic bomb to the western countries and fueled controversy. The western media voiced their doubt and anxiety. In reality, this conclusion was complete unscientific. The reason is that the PPP was derived from the chosen basket of goods, but the estimates of their true prices were erroneous. Currently the price of major agricultural produce and the price of durable consumer goods based on PPP in China are higher than the western countries. IMF's conclusion is therefore invalid.
+Due to its important role in policy implementation, the measurement of GDP shall tolerate no compromise at all. In 2015, IMF predicted that we have approached the end of the American Era — China's GDP based on Purchasing Power Parity (PPP) will surpass the US in 5 years — and that 2016 will be the first year of the Chinese Era. This statement was an atomic bomb to the western countries and fueled controversy. The western media voiced their doubt and anxiety. In reality, this conclusion was complete unscientific. The reason is that the PPP was derived from the chosen basket of goods, but the estimates of their true prices were erroneous. Currently the price of major agricultural produce and the price of durable consumer goods based on PPP in China are higher than the western countries. IMF's conclusion is therefore invalid.
 
 (*From my own research experience, I opined that IMF's conclusion and methodology is inapplicable to China's situation. I attended the training program designed for central bank senior managers and discovered that many of their research methodologies are completely inapplicable to China. For instance, IMF uses the Life-Cycle Hypothesis (LCH) extensively to analyze investments and savings, but they fail to recognize the unique tradition and economic structure of each country. Households are the basic building blocks of China's economy, while the LCH assumes that individuals are the basic building blocks of an economy as is the case in the US among other developed countries. The life cycle curves of these two economic structures are very different. China's curve would resemble an upward linear trend, while the LCH's one would resemble a normal distribution. An obvious evidence is that savings rates in China and Southeast Asian countries are higher than that of western countries.*)
 
@@ -50,10 +50,10 @@ In summary, GDP and M2 statistics is unique to each country and should be treate
 (*The US Department of Commerce releases its US GDP report every month and quarter. The preliminary estimates are released first, followed by the first revision and the final revision. The release is scheduled at the third week of each month. The GDP of each month is usually compared with the GDP of the same month last year to determine if the economy is growing, which could lead to rate hikes, or if the economy is slowing, which could lead to rate cuts. The US sets a 3% GDP growth rate as its ideal condition. A 3+% growth rate reflects an inflationary pressure, while a <1.5% growth rate indicates a recession. Besides, many US corporations operate overseas, which leads to the large US GNP. Estimating US economic activity with GDP alone is apparently insufficient.*)
 
 GDP statistics that will drive monetary policies should satisfy the following properties:
-1. output-based and income-based numbers should validate each other;
-2. national statistics and local statistics should validate each other;
-3. GDP statistics and tax indicators should validate each other;
-4. estimates at the macro and micro levels should validate each other;
-5. government's statistics and market's statistics should validate each other.
+1. output-based and income-based numbers should be congruous;
+2. national statistics and local statistics should be congruous;
+3. GDP statistics and tax indicators should be congruous;
+4. estimates at the macro and micro levels should be congruous;
+5. government's statistics and market's statistics should be congruous.
 
 (* [The Micro-foundations of Monetary Policy: A Dynamic Simulation and Analysis of the Investment and Consumption Behaviors of Chinese Citizens](https://www.amazon.com/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E5%BE%AE%E8%A7%82%E5%9F%BA%E7%A1%80-%E4%B8%AD%E5%9B%BD%E5%B1%85%E6%B0%91%E6%B6%88%E8%B4%B9%E5%92%8C%E6%8A%95%E8%B5%84%E8%A1%8C%E4%B8%BA%E5%8A%A8%E6%80%81%E6%A8%A1%E6%8B%9F%E7%A0%94%E7%A9%B6-%E9%99%88%E5%AD%A6%E5%BD%AC%EF%BC%8C%E7%AD%89/dp/B003ZK59JY) was written by Xuebin Chen and published by Fudan University Press in 2010. The book covered the dynamic optimization simulation of the life cycle of consumption and investment behaviors of Chinese citizens, the theoretical research on the time preference and risk profile in consumption and investment decisions, the simulation and analysis of the time-varying time preference in consumption and investment behaviors etc. *)

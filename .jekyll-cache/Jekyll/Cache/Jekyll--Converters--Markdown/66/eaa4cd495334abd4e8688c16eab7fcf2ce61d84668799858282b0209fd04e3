@@ -1,0 +1,57 @@
+I",<h4 id="source-中国人民银行论文货币政策的市场化协同与大数据机制研究--邹平座">Source: <a href="https://www.chainnews.com/zh-hant/articles/551734637322.htm">中国人民银行论文：货币政策的市场化协同与大数据机制研究 — 邹平座</a></h4>
+
+<p>This report by People Bank of China touched upon ideas and visions that resonate with my understanding of various ideas and projects in the Ethereum community (for completely different ends perhaps), thus I am motivated to translate it into English.</p>
+
+<hr />
+
+<h2 id="the-synergy-from-the-marketization-of-monetary-policy-and-the-research-on-big-data-mechanism">The Synergy from the Marketization of Monetary Policy and the Research on Big Data Mechanism</h2>
+<p>Zou Pingzuo, chief researcher at People’s Bank of China</p>
+
+<h3 id="question-2-how-to-solve-for-accurate-timely-and-sufficient-gdp-statistics">Question 2: How to solve for accurate, timely, and sufficient GDP statistics?</h3>
+
+<p><strong>My proposal is: explore marketized big data, analyze the process of GDP statistics formation at the micro scale, and construct a new univariate econometric model based on individual value function.</strong></p>
+
+<p>The modern time calls for a new macroeconomic data industry, where modern information technology is fully leveraged to build a macroeconomic big data system that is real-time, dynamic, and accurate, and to transform this process into a process of value creation. The fourth plenary meeting of the nineteenth Central Committee of the CPC made it very clear that data is a mean of production and is involved in economic resource allocation in China. Large-scale macroeconomic models will be built on this foundation, solve for accurate and timely economic big data and achieve objectivity and timeliness in our monetary policy-making.</p>
+
+<h4 id="multivariate-big-data-model-for-gdp">Multivariate big data model for GDP</h4>
+<p>First, we shall construct the multivariate big data for GDP by considering the four sectors: families (f), businesses (b), governments (g) and exports (e). The GDP equals to the sum of value functions of all sectors:</p>
+
+<p><img src="/assets/eq1.svg" alt="equation" /></p>
+
+<p>Given that, we can solve for both output-based and income-based GDP. From the income perspective, we shall consider:</p>
+<ol>
+  <li>labor income</li>
+  <li>business revenue</li>
+  <li>tax revenue</li>
+  <li>export revenue</li>
+</ol>
+
+<p>From the output perspective, we shall consider:</p>
+<ol>
+  <li>consumption</li>
+  <li>investment</li>
+  <li>government spending</li>
+  <li>oversea spending</li>
+</ol>
+
+<h4 id="univariate-big-data-for-gdp">Univariate big data for GDP</h4>
+<p>Second, we consider the univariate big data for GDP — the big data of every single citizen’s economic record. We shall create the markets their transaction structures for these data, as well as the legal entities that provide custody for these data so that the data property right of every single citizen is authenticated and protected. Every citizen will own his/her data as his/her asset, and consequently, individual balance sheets and survival statistics will be created. The univariate model is simple but extremely powerful because by viewing the individuals as the only variable, where every citizen’s economic value, labor income, capital gains, expenses and investments are all available in the data markets, solving for GDP becomes straightforward:</p>
+
+<p><img src="/assets/eq2.svg" alt="equation" /></p>
+
+<p>Where <em>P</em> is our country’s population. The 2 GDP results shall validate each other. This simplification of data model will be connected to our digital currency and ultimately to our monetary policy-making.</p>
+
+<p>We shall recognize that solving for multivariate functions is extremely difficult — the gathering of statistics is a complex process, the calculation is difficult, and more importantly there are enormous uncertainties and intractability in decomposing values across sectors and entities. Nevertheless, the analysis of the multivariate functions help us understand the mechanism of value propagation as well as how to validate the results.</p>
+
+<p>Solving univariate value functions for GDP will massively simplify the process of economic analysis, making the verification of taxation feasible.</p>
+
+<p>From the perspective of research methodology, we shall first confirm that:</p>
+<ol>
+  <li>the sum of all individual’s economic value is the total economic value of our society;</li>
+  <li>the time integral of all individual’s economic value growth rate over a time period yields us our GDP over the same time period.</li>
+</ol>
+
+<p>We shall also acknowledge that this univariate economic model will concretize our society’s goals and directions in value production. Because ultimately, the goal of all human’s economic activities is to serve the humans and improve the economic values of humans. To this day we have been mistakenly using the values of commodities and currencies as the goal of our economic growth, which has led to money fetishism and commodity fetishism,</p>
+
+<p><strong>aa</strong></p>
+:ET
