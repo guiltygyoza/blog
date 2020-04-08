@@ -6,7 +6,7 @@ categories: crypto
 ---
 #### Source: [中国人民银行论文：货币政策的市场化协同与大数据机制研究 — 邹平座](https://www.chainnews.com/zh-hant/articles/551734637322.htm)
 
-This report by People Bank of China touched upon ideas and visions that resonate with my understanding of various ideas and projects in the Ethereum community (for completely different ends perhaps), thus I am motivated to translate it into English.
+This report by the People's Bank of China touched upon ideas and visions that resonate with my understanding of various ideas and projects in the Ethereum community (for completely different ends perhaps), thus I am motivated to translate it into English.
 
 ***
 

@@ -6,7 +6,7 @@ categories: crypto
 ---
 #### Source: [中国人民银行论文：货币政策的市场化协同与大数据机制研究 — 邹平座](https://www.chainnews.com/zh-hant/articles/551734637322.htm)
 
-This report by People Bank of China touched upon ideas and visions that resonate with my understanding of various ideas and projects in the Ethereum community (for completely different ends perhaps), thus I am motivated to translate it into English.
+This report by the People's Bank of China touched upon ideas and visions that resonate with my understanding of various ideas and projects in the Ethereum community (for completely different ends perhaps), thus I am motivated to translate it into English.
 
 ***
 
@@ -68,7 +68,7 @@ Our first step is to construct the mathematical relationship between GDP and ind
 
 ![equation](/assets/eq3.svg)
 
-- *v_c* denotes value spent on consumption, while *v_i* denotes value spent on investments. GDP shall also equal to the time integral of all individual's *v_c* and *v_i* over the same period of time.
+- *v_con* denotes value spent on consumption, while *v_inv* denotes value spent on investments. GDP shall also equal to the time integral of all individual's *v_con* and *v_inv* over the same period of time.
 
 ![equation](/assets/eq4.svg)
 
