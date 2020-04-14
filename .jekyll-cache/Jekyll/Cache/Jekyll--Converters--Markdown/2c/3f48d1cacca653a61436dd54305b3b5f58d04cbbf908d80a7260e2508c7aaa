@@ -1,0 +1,177 @@
+I"�c<p>翻譯了 Chamath Palihapitiya 發佈的 Social Capital 2019 Annual Letter.</p>
+
+<hr />
+
+<p>致 Social Capital 的支持者與投資人：</p>
+
+<div align="center">
+<img src="/assets/social_capital_return_1st_8y.png" />
+</div>
+
+<p>這是我們第二次發佈年報，旨在討論我們對科技、市場的看法，以及我們的任務。</p>
+
+<p>八年半前，我們成立了 Social Capital，瞄準癌症、太空探索、氣候變遷等很少同行關注的難題。當同行為了社群網路、照片共享 app 等消費者導向應用而瘋狂，我們專注投資醫療照護、教育，和太空探索與 AI 等前沿科技。很多我們投資的公司，是本來沒有任何機構投資者願意注資的，只有我們願意提供長期、有耐性的資本支持他們。我們希望這些賭注能夠帶來回報。2018 年，我們的希望開始實現了，同時我們也決定：傳統的募資與資本管理模式不再適用於 Social Capital。傳統的模式可以帶給我們豐潤的回報，卻將妨礙我們實現我們的任務。因此，2018 年中，我們停止對外募資，成為一家科技控股公司。</p>
+
+<p>儘管我們將持續微調策略來應對世界趨勢的變化。我們的任務始終不變：我們想要賦能創業家解決世界上最難的問題，同時在經濟方面與社會方面催生龐大的複利收益。</p>
+
+<h3 id="what-the-hell-is-going-on">What the hell is going on?</h3>
+<p>1870-1900 的鍍金時代 (Gilded Age) 期間，美國經濟快速成長，標準化的小學和中學數量大增。時值鐵路技術高速發展，帶動工廠、礦場與農場的擴建，而當時的華爾街一如今日扮演金融仲介，為所有項目籌措資金，並催生鐵路泡沫的膨脹與破裂。在這段期間，大量移民湧入美國，並逐漸形塑了階級結構 — 最頂層 1% 擁有全社會1/4以上的資產，而最底層 50% 擁有的資產總合不到全社會的 4%。</p>
+
+<p><em>如果把 “鐵路” 置換為 “科技”，重讀以上文字，有沒有覺得很熟悉？</em></p>
+
+<p>鍍金年代的三十年間發生了兩次市場危機 – 1873 和 1893 市場恐慌。經濟上，南北戰爭後的南方各州深陷泥淖，無法從廉價商品產業脫離出來。政治上，兩黨對立激化，總統無能，國會陷入僵局。</p>
+
+<p><em>如果把 “1873 和 1893 市場恐慌” 置換為 “互聯網泡沫和金融危機”，把 “南北戰爭後的南方各州”置換為 “中西部”，重讀以上文字，有沒有覺得很熟悉？</em></p>
+
+<p>社會上，鍍金時代期間人們開始推動女性投票權、保障勞工權益的工會、終止童工，正視企業壟斷的不良後果。同時，市值居冠的鐵路公司開始遭受批評與仇恨。農夫們與壟斷的鐵路公司對抗，要求價格管制。人們對這些鐵路公司的負面情緒不斷升高。南太平洋鐵路公司董事長 Collis P. Huntington 成為眾矢之的。後來教科書指出：「在當時社會的眼裏，Huntington 象徵了貪婪與十九世紀晚期的企業貪腐。他的對手和政治改革者視他為一切邪惡的源頭。記者和漫畫家以嘲諷他而成名…歷史學家將他描繪為全國最卑劣的惡棍。」</p>
+
+<p><em>如果把 “Collis P. Huntington” 置換為 “貝佐斯或扎克伯格”，你懂我的意思。</em></p>
+
+<p>簡言之，鍍金時代與今天似乎有太多相似之處。這裡的重點不是道德討論，而是去探討：鍍金時代後發生了什麼事？美國社會如何回應？於今日有何借鑑？我們的答案是，鍍金時代的奢侈與腐敗催生了進步時代 (Progressive Age)。對此維基百科有如下總結：</p>
+
+<p>「進步時代在美國歷史上是指 1890-1920 年間，美國的社會行動主義和政治改良紛紛湧現的一個時代。進步時代的主軸在於解決工業化、都市化、移民與政治貪腐的問題。藉由揭露和削弱政治利益集團和其大佬的方式淨化美國政府，同時建立直接民主的參政方式。進步運動者也試圖通過反壟斷法監管托拉斯集團，促進公平競爭，並推動政府成立新的監管機制與組織，例如食品藥物管理署。」</p>
+
+<h3 id="鍍金時代重演">鍍金時代重演</h3>
+<p>過去三十年，我們創造了一種新的「鐵路技術」，並目睹鍍金時代的重演。少數幾家公司發展的技術使社會上各種成本大幅降低、各種價值提高，達到令人難以想像的消費者剩餘。然而，這些進步背後的成本是什麼？</p>
+
+<p>這些公司的創辦人和員工的財富、地位和影響力激增，其餘社會則面臨薪資停滯、不安全感蔓延。許多人開始相信自己無法帶給下一代更多的發展機會。民粹主義興起。右派的政治傀儡祭出嚴格的邊境政策、主張經濟民族主義，而右派的政治傀儡則提出全民社會福利。整個社會都在期盼著改變。</p>
+
+<p>不管你相信或喜歡與否，這些改變提案都能在政治傀儡的主張中清晰可見。任何科技產品的第一版儘管毫不張揚卻不吝於投射高遠的野心 (e.g. iPhone, Facebook, Google Search)，政治表演裡的手段也是如此。Trump、Warren 和 Sanders 之後，我們將看到更新穎、更迅速、更完善的進步思想在美國和世界各地茁壯。我們將面臨一個定義時代的十字路口。</p>
+
+<p>在這背景之下，過去幾年神似鍍金時代的末期、進步時代的開端。</p>
+
+<h3 id="監管緊縮">監管緊縮</h3>
+<p>鍍金時代終結的第一砲將由針對科技巨頭 (微軟、蘋果、亞馬遜、谷歌、臉書) 的反托斯法案打響。各國政府已經意識到自己有責任介入將這些巨頭分解，強迫分拆，提升透明度，特別是針對以廣告收益為主的公司，要求更改廣告競價算法來限制程式化競價，並限制大範圍的數據搜集與用戶監控。有些人認為這違反資本主義的初衷，但我們認為這是讓資本主義在整個社會裡有效運作的實際作法。</p>
+
+<p>當政府和監管者踏出第一步，必須嚴防大型科技公司滲透立法程序進一步合理化當前的壟斷態勢。監管者必須與無利益相關的各領域專家合作，學習大型科技公司的商業模式、這些商業模式對社會的正面和負面影響、如何圍堵負面影響、如何保護中小型企業和保障個人自由與隱私權。</p>
+
+<p>倘若順利，未來十年之內科技巨頭將被分解。</p>
+
+<p>這代表 iPhone、Azure、AWS、Amazon Retail、Google Search、Youtube、Gmail、Google Cloud Platform、Facebook、 WhatsApp 和 Instagram 將各自成為獨立的公司，禁止數據共享。同時，擁有第三方廣告網路的公司必須將其分拆出去。這一個階段象徵著互聯網經濟裡的供給方壟斷程度下降、需求方話語權提升。</p>
+
+<p>增稅，是鍍金時代終結的第二步。</p>
+
+<p>政府將要求科技巨頭納入用戶所在地的地區徵稅。儘管初期將因租稅協定、關稅戰爭等因素而進展緩慢，這樣的趨勢是確定的，因為今日各國面臨的民族主義浪潮只是其開端而已。其次，例如新冠疫情等外部世界會促使各國朝向更具堅韌性的國民經濟結構、降低全球化分工和依賴、以及嚴格邊境政策和貿易協定的方向發展。</p>
+
+<p>透過以上兩個階段，科技巨頭的盈利空間將被大幅限縮，成長放緩，同時政府和監管者將能更有效對抗壟斷以及促進市場競爭。</p>
+
+<p>鍍金時代終結的最後一步：改變市場激勵機制，尤其是改變股份酬勞、合併和收購、對期權課稅。</p>
+
+<p>政府可以透過很多方式使科技巨頭無法繼續壟斷人力資本，鼓勵人才流向小型企業和新創公司，為產業生態注入活力。例如：以課稅的方式勸阻有一定規模的公司向員工發放 RSU、強制以 GAAP 原則呈報股份酬勞：修訂稅法讓小公司員工獲得的股份期權和薪水更划算。最後，政府必須阻止科技巨頭繼續實施人才收購 (acqui-hire)。</p>
+
+<p>從本質來看，政府若能促使科技巨頭的成長成本上升，同時新創公司的成長成本下降，我們就能看到創業圈重現活力。</p>
+
+<p>綜觀各國監管現況，上述的改革已經開始進行。科技巨頭曾創造巨量的價值，但今日其成長的邊際效益已不敷邊際成本。巨頭們創造的價值持續萎縮，而社會對改革進步的需求與日俱增 — 氣候變遷日漸嚴重、已開發國家的平均壽命停滯甚至下滑、教育體系無法引導年輕一代走向未來，而這些資源缺口原本可以由科技巨頭的鉅額研究經費來填補。回想科技巨頭當年都曾宣示將改變世界、除邪驅惡、推動人類社會的進步，而今日他們只專注於保護他們的壟斷地位。</p>
+
+<p>人們也期待過政府介入推動這些改變，但事實上，華盛頓和布魯塞爾的長年政治僵局告訴我們，這些改變必須來自創業家們。這些聰明、充滿野心的想法是社會賴以進步的命脈。</p>
+
+<h3 id="人才囤積">人才囤積</h3>
+<p>人們往往忽略科技巨頭對 STEM 科系畢業生進行的大規模「綠色勒贖」。想像一下，數以千計的這些畢業生們若是投入氣候變遷、醫療照護或是教育革新，將能帶來多少進展？然而他們之中的大多數領著優渥的 RSU 在大型科技公司裡開發無關緊要的產品給長尾市場裡的零星需求，或是在已經形成規模的項目裡開發無關痛癢的功能。已有太多我試圖招募的人才，把黃金歲月浪費在科技巨頭的辦公室裡，都跟我說一句「就因為工資高」。</p>
+
+<p>作為社會的一份子，我們有責任遏止這樣的人才囤積現象。回顧金融危機前，我們經歷過類似的大規模人才麻痹現象 — 當時 STEM 畢業生們受高酬勞吸引湧向對沖基金產業，比起研究乾淨能源和太空探索，物理博士們更傾向於幫華爾街開發期權交易模型。金融危機後，STEM 畢業生紛紛逃出華爾街，卻一齊湧向科技巨頭。碳吸存技術？資源需缺問題？材料科學研發？不了謝謝，讓我們開發照片標籤算法、短視頻上傳後端架構、廣告目標受眾算法吧。</p>
+
+<h3 id="重啟太空競賽">重啟太空競賽</h3>
+<p>樂觀主義者往往認為科技進步的速度一直在提升，而我持有相反意見。我認為大約從 1969 人類登月起至今，科技進步的速度一直在緩步下降。我無法解釋 1970 和 1980 年代的情形，但今日重演的鍍金時代是顯而易見的。過分成長的獲利、比天還高的股價、針對性的招募策略讓科技巨頭麻醉了聰明年輕的 STEM 畢業生。如果你是一家沒法創新卻超高盈利的公司，難道你不會想買斷所有人才，讓他們不但無法幫競爭對手工作，也無法自行創業衝擊你的壟斷？當然，你會這麼做的。科技巨頭已經這麼做許多年了。</p>
+
+<p>1960 年代，聰明、有野心的 STEM 畢業生則做出了完全不同的決定 - 他們選擇從事有意義的研發工作。當時最厲害的人才們都湧向了太空航行技術研發。這些人創造了全新的行業生態 - 燃料電池、氣體儲存、熱動力學材料、引擎、機械計時器和控制器等。阿波羅登月計劃的總成本是 250 億美元，等同今日的 1500 億美元。</p>
+
+<p>而科技巨頭 2018 年一年的研發費用加起來就高達 750 億美元。換言之，科技巨頭花兩年的研發成本就足以把人們送上月球再安全載回。我們認為，這些研發成本帶來的進步遠遠不及當年，從野心上和從對社會的正面影響力來看都是。</p>
+
+<p>這樣的資本錯置只會持續下去，除非我們聯合起來阻止它。每一個政府、監管者以至於個人都有責任。</p>
+
+<h3 id="關於市場">關於市場</h3>
+<p>我基本上認為，中央銀行的設計已無法有意義的控制通膨和通縮。但這不代表央行不會持續降息和印鈔來推高股價。我們的思路如下：當錢變得越來越廉價，信貸市場將持續膨脹，因為整個系統鼓勵 CEO 們透過股票回購、做出糟糕的併購決定和資本配置決定、或是避稅等方式虛抬 EPS。CEO 薪酬越來越高的現象並不讓人意外。</p>
+
+<p>當利率持續下滑，投資人被迫調整風險溢價模型，不惜一切手段找尋任何成長與回報的可能，儘管那些成長只是理論上且得等上五年。這將導致股價漲得更高。以偽代碼來表示：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+ 對於一家公司而言：
+
+   while 明天利率 &lt;= 今天利率：
+     借來便宜的錢
+     股票購回
+     讓華爾街看看自己上揚的 EPS
+     提高自己的薪酬
+
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+ 對投資人而言：
+
+   while 明天利率 &lt;= 今天利率：
+     關注公司五年後的成長能力，不管預測實際與否
+     買股票
+     if 公司有在做股票購回：
+       買更多股票
+
+</code></pre></div></div>
+
+<p>可以想見，這樣的情形已製造出了錯綜複雜的信貸與股市泡沫，其與過去的泡沫一樣終將破滅。當破滅發生時，我們希望人們的損失有限。然而，以波音為例，硬著陸已然發生，後果是毀滅性的 - 兩台飛機故障，導致 346 條無辜人命的喪失。深究其因，我們可以追溯到波音差勁的資本配置決定和 CEO 最大化個人薪酬的決定。波音新任 CEO 被問及前任 CEO 時表示：</p>
+
+<p><em>“我永遠無法評論 Dennis的動機為何 - 不管是只漲不跌的股價，還是搶在競爭對手前借到廉價的錢。… Dennis 就是那種會奔向彩虹的盡頭找尋裝滿股票的藏寶箱的人。”</em></p>
+
+<p>我希望所有讀到這裡的 CEO 都能深刻的意識到，建立可持續發展的企業有多重要，並牢記 Charlie Munger 所說的：</p>
+
+<p><em>“告訴我你的動機，我就能告訴你你的下場。”</em></p>
+
+<h3 id="關於績效">關於績效</h3>
+
+<p>Social Capital 在 2019 年度過了美好的一年。成為控股公司後，我們不再承受來自 LP 的壓力，也不再需要持續募資和處理合夥人制裡的激勵問題。我認識到，投資不是一種團隊運動。成立公司是團隊運動，但資本配置不是 - 卓越的資本配置來自幾個高品質決定，背後由大量高度獨立的思考、閱讀和自我辯論來支撐。我想感謝我的團隊協助我做出了這些好決定。</p>
+
+<p>去年的收益將我們自創立至今 (ITD: inception to date) 的績效提升 350bp。我們只公布 ITD 的績效，是因為其代表我們的資本隨著時間複利增長，並且避免我們過度著眼於任何一年的成長，而是重視長期性的思考與行為帶來具可重複性的成長模式。自 2011 創立以來，我們的資本已增長 997%，相比於 S&amp;P 500 (股息再投資) 的增長高出三倍。</p>
+
+<p>同時，2019 年裡我們獲得 17 億美元的現金和現金等價物收益。專注於流動性是我們重要的目標之一。保持流動性在未來數年之中將會愈加關鍵。閱讀本信的同時，我們必須記得去年所見：擴大的信用利差、凍結的附買回市場、股市閃崩。在時機恰當時出售資產，並保持流動性，在未來數年裡將是明智而謹慎的作法。外部事件的影響已不再反映在市場價格裡 - 這是要我們更加專注觀察市場的信號。持有現金將製造購買機會，儘管機會可能很短暫，因為市場將時不時退潮，揭露同行裡誰在裸泳。</p>
+
+<p>2019 年我們完成了兩項交易。第一，我們投資維珍銀河超過 5 億美元，催生人類史上第一家公開上市的人類宇宙航行公司。我們很幸運能有此機會與 Sir Richard Branson、維珍集團與維珍銀河的團隊合作。第二，我們買下一家由 VC 注資將近一億美元的公司，策略考量我們選擇將此公司名稱保密。我們買下這家公司是因為我們相信它的技術和市場機會。我為這兩項投資的長遠目標感到興奮。</p>
+
+<h3 id="現金-vs-期權">現金 vs 期權</h3>
+<p>第二項投資允許我們在員工薪酬方面做出非傳統的決定。我們取消期權計畫，給員工更高的薪資。我們透過市場調查了解這家公司裡每一個職位在市場上的薪資分布，然後付給公司裡所有人各自市場薪資第 100 個百分位的薪資。新創公司通常付給員工地 40-50 個百分位的薪資，佐以期權補償。包括 Netflix 在內的公司則發現，高現金酬勞能留下它們最有經驗和最高產力的人才。我們認為，給予員工高水平現金薪資，讓直接提高員工生活水平、妥善照顧家人、專注於個人所愛，有別於大多新創公司糟糕的人才存留率。</p>
+
+<p>對於想要擁有股份的員工，每年都有購買股份的機會。這是實現責任意識最理想的公司型態。一如股市，每一個人為想要擁有多少股票而付出相應成本。無論如何，付出遠高於水平的薪資讓我們的員工更滿足也更有意願留任。如果只持有公司少數股權，我們將無法推動這些改變，因為投資它們的 VC 肯定將其打回票。</p>
+
+<h3 id="募得資本和創造價值的反相關性">募得資本和創造價值的反相關性</h3>
+
+<p>除了少數 VC 能經的起時間的考驗，擁有敏銳的直覺與明智的資本配置決策，大多數 VC 是沒有能力與創業家成為夥伴，協助他們將充滿野心的想法變為現實 - 想法包括上述的薪酬模式改進，或是更重要的：公司成立的初衷和理念。</p>
+
+<p>今天，VC 從業者的能力之低與見識之陋根本前所未見！這些 VC 完全被參與早期投資輪、擴大資產管理規模、獲取管理費和績效費所驅動。充斥著快錢的社會養出了這批一夜長高的 VC，他們的背景可疑，資本的來源更可疑。最顯著的跡象莫過於獨角獸公司裡衰頹的治理，以及這些公司揮霍資本的姿勢。</p>
+
+<p>考慮以下數據：</p>
+
+<p>科技巨頭們在上市前一共募得 13 億 4500 萬美元，其中臉書就佔了 13 億美元。這代表蘋果、亞馬遜、微軟和谷歌全加起來，在 IPO 前募資也不過 4500 萬美元。這告訴了我們非常重要的訊息：科技公司根本不需要募得鉅額資金。忠告所有為科技公司工作的員工們：小心那些募了一堆錢、稱呼自己是科技公司的公司。他們往往只是科技賦能的混種公司。</p>
+
+<p>作為混種公司沒什麼問題，但是我們必須認清它們的收益、商業模式品質、估值用的框架不同於科技公司。
+While there is nothing wrong with being a tech-enabled hybrid, the returns, business model quality and valuation frameworks are different than those of tech companies. As we’ve seen with WeWork ($14B raised), Uber ($25B raised), Lyft ($5B) and a few other hi flying private companies, the public markets will rationalize valuation and enforce a valuation model that won’t allow tech-enabled hybrids to be valued like pure-play tech companies.</p>
+
+<p>Expect more of these valuation resets as companies stay private longer (dumb), have poor or negative unit economics to drive growth (dumber) and continue to be over capitalized (dumb and dumber to).</p>
+
+<p>Board members have a responsibility to help founders navigate these complexities but, except for a few VCs, the venture capital industry is letting down an entire generation of founders. A reminder to founders: VCs are incentivized to generate high salaries via ever larger funds and their attendant fees. Beware the VCs that raise funds every year - the best practitioners take their time and do not get distracted from the real prize - carried interest - which only comes when you and your employees are successful. As it turns out, grin-fucking you so they can write a big check and get closer to raising a new fund is easy to do but being a line in the sand that enables good decision making and helps you be patient while they, themselves, practice it too is much harder. Especially in today’s gold rush venture capital mindset. Pick your VC wisely.</p>
+
+<p>A corollary to this is that as governance has decayed and the focus of most VCs is on uprounds and markups, there has been a meaningful decay in strategy at many startups.</p>
+
+<p>Startups are increasingly building product features that depend more on a balance sheet of capital to differentiate themselves versus customer value that is unique and defensible. This creates feature wars that quickly become balance sheet wars when other startups or incumbents decide to copy these features. Free stock trading, hi-rate savings accounts, subsidized hardware tied to software, vacation rentals and ride sharing are some current examples.</p>
+
+<p>While any one feature can quickly drive customer adoption, if capital allows others to compete - they invariably will. The problem with this kind of decision making is that your original customer has now come for a free toke of a cigarette butt - for a feature that has costs, but is subsidized by your last fundraising round. If you then expect that same user to stay for a paid, three course meal, you may be disappointed. Said differently, if you encourage your users to act like hobos, they will, and your only solution is to keep raising capital which isn’t always possible.</p>
+
+<h3 id="與我們合作">與我們合作</h3>
+<p>Many of the opinions raised thus far are complicated and potentially off-putting. That said, our track record has reaffirmed our need to be, if nothing else, candid and honest. In that spirit, we would be remiss without speaking directly to entrepreneurs and employees reading this: if you are working on something hard and useful, we want to meet you. Maybe we end up partnering with you so you can work on these ideas in a supportive but challenging environment where capital is plentiful, compensation is great and a compelling need to change the world is the priority.</p>
+
+<h3 id="使命感與寬恕">使命感與寬恕</h3>
+<p>As we enter the final years of the Gilded Age and usher in the Progressive Era, a more civilized culture will hopefully abound. Today, it’s not just the stock market but also the fragmentation, polarization and judgement that are at all time highs.</p>
+
+<p>Is this really the hallmark of a society that is progressive? No. It’s the remnants of unhappiness, resentment and anger that personify the Gilded Age. That said, it’s so much easier to be happy and see the bigger picture when you focus on what matters. So how does one focus on what matters? I’ve found it possible by asking questions like “what matters to me?” and “what is important to me?” These may sound like the most basic questions but they are also the most critical. And especially now, these are the questions that need lucid, non-judgemental answers from each of us.</p>
+
+<p>For me, I have learned that my family, my health and what I know (knowledge) are the most important things that matter to me. Work, money and friendships are important but come strictly after the first three. What doesn’t matter? Everything else, particularly, what others think about me and my decisions.</p>
+
+<p>These truths about myself help me make defensible decisions and focus on the long-term impact I choose to have. To get to these truths about myself, I spoke to many dozens of people to learn what is important to them, why, and how they got to those realizations. These people have represented all levels of success and failure and beyond what I learned from them explicitly, my implicit learnings on this journey have been even more important which I offer here:</p>
+
+<p>Be emotionally rich and available. It’s worthwhile and teaches you to have the patience to be compassionate versus harsh. Then observe what happens when you follow this advice.
+Be coherent and honest with other people. It makes life much fairer for both yourself and the person in front of you. When you practice honesty with compassion, amazing relationships will be born.
+Take the advice of others but carefully consider how it applies to you. What works for others may not work for you.</p>
+
+<h3 id="顯而易見的秘密">顯而易見的秘密</h3>
+<p>Along the way, I’ve also become more observant of simple truths that are presented to us every day. In the crush of day to day life, these secrets are hidden, but when your mind slows down enough to take them in, their simplicity and elegance are worth internalizing. I offer one of them here:</p>
+
+<p>“Put on your oxygen mask before helping others”</p>
+
+<p>We’ve been told this innumerable times on airplanes and see it written in the safety cards in the seat pocket in front of us. But what it says is something beyond the obvious which is that you cannot help others until you help yourself. When you are at your best, you can give your best in any situation and to those around you. Keep that in mind as you build for the long run.</p>
+:ET
