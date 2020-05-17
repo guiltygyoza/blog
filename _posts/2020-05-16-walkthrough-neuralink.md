@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Walkthrough of Neuralink's paper"
-date:   2020-05-17 00:00:00 -0500
+date:   2020-05-16 00:00:00 -0500
 categories: tech
 ---
 
