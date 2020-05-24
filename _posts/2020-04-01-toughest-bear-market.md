@@ -3,6 +3,7 @@ layout: post
 title:  "撲朔迷離的熊市"
 date:   2020-04-01 00:00:00 -0500
 categories: markets
+published: false
 ---
 #### Source: [Now is the toughest part of the bear market to trade - Qiao Wang at Messari.io](https://messari.io/article/now-is-the-toughest-part-of-the-bear-market-to-trade)
 

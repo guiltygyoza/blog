@@ -3,6 +3,7 @@ layout: post
 title:  "新興市場的危機"
 date:   2020-04-18 00:00:00 -0500
 categories: markets
+published: false
 ---
 
 以下翻譯、節錄自 Guggenheim Investments 對新興市場的看法: [The Emerging Emerging-Markets Crisis

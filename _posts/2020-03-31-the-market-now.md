@@ -3,6 +3,7 @@ layout: post
 title:  "市場現況"
 date:   2020-03-31 00:00:00 -0500
 categories: markets
+published: false
 ---
 
 #### Source: [A framework for analyzing the current market - Qiao Wang at Messari.io](https://messari.io/article/a-framework-for-analyzing-the-current-market)

@@ -3,6 +3,7 @@ layout: post
 title:  "美元黑洞 / 牛市與熊市"
 date:   2020-04-02 00:00:00 -0500
 categories: markets
+published: false
 ---
 #### Source:
 - [How to think about the market: the Dollar blackhole — Qiao Wang at Messari.io](https://messari.io/article/how-to-think-about-the-market-the-dollar-blackhole)

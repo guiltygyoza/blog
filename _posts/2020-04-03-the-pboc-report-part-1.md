@@ -3,6 +3,7 @@ layout: post
 title:  "PBOC: a digital currency pegged to the values of individuals (Part 1/4)"
 date:   2020-04-03 00:00:00 -0500
 categories: crypto
+published: false
 ---
 #### Source: [中国人民银行论文：货币政策的市场化协同与大数据机制研究 — 邹平座](https://www.chainnews.com/zh-hant/articles/551734637322.htm)
 
