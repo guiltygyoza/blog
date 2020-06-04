@@ -17,7 +17,7 @@ To achieve this we need to push our human-machine symbiosis to a much higher lev
 
 
 - H->M bandwidth is utterly terrible.
-  - Typing: 41 wpm at 50th percentile, 100 wpm at 95th percentile. Average word length is 4.7 characters. Using ascii encoding, we have 25.7 b/s at 50th percentile and 62.6 b/s at 95th percentile. In comparison, a skilled morse code operator can type in 21 b/s, and a modem built by Bell Lab in 1959 has a data rate of 110 b/s.
+  - Typing: 41 wpm at 50th percentile, 100 wpm at 95th percentile. Average word length is 4.7 characters. Using 3 bit/character for entropy of dense English text, we have 9.6 b/s at 50th percentile and 23.5 b/s at 95th percentile. In comparison, a skilled morse code operator can type in 21 b/s, and a modem built by Bell Lab in 1959 has a data rate of 110 b/s.
   - Voice: chatbots are still limited by vocabulary size and contextual information. Very few people would agree that voice is an established way of human's communicating with machines.
 
 Think about this: machines can communicate to one another faster than our communication with them 60 years ago. Not to mention on-chip bandwidth — DDR4 has ~20 GB/s within a modern SoC. That is a billion times faster than our ability to communicate with them.
