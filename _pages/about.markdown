@@ -9,5 +9,5 @@ permalink: /about/
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-Emerging tech, markets, crypto.
+AI, video games, crypto.
 {: refdef}
