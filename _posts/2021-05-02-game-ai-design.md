@@ -14,6 +14,9 @@ Perhaps interestingness can be rephrased as "capturing and sustaining attention.
 
 In [The AI of Halo 1 Combat Evolved | Design & Implementation](https://www.youtube.com/watch?v=kda7rz5qFtI) at GDC 2002, the designer of the game described how the illusion of NPC intelligence is achieved.
 
+<img src="/assets/HALO_actor.png"/>
+<img src="/assets/HALO_decision_logic.png"/>
+
 The expectations from modern gamers: novel situation, total interactivity with NPCs, significant challenge.
 
 Combat behavior is an area where code and design intersects. Design deals with 3-minute scope (high-level action that requires long term coherency) such as racial personalities and strategies; code deals with 30-second scope (low-level action) such as intelligent decision-making and instant reactions.
