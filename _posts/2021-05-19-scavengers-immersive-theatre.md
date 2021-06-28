@@ -10,7 +10,7 @@ categories: game
 
 I have been playing *[Scavengers](https://www.playscavengers.com/en)* for more than a month. It is the first game ever that makes me feel like I am co-creating legendary stories to be remembered. In fact, I still recall the first solo extraction I pulled off on my first day playing the game - with the countdown music blasting in the background, my attention circulated between radar, map, the third-person camera view, and the hunger and cold status bars. I was literally panting for oxygen. I felt significance in that moment.
 
-Analyzing that feeling afterwards, I figured the music is definitely one important component. The countdown music did a fantastic job building up tension in a rich and dynamic fashion. Loving the music so much and wanting to understand its power, I transcribed the key moments in this d-minor piece. After the slow build-up of suspense in the beginning, the main theme began:
+Analyzing that feeling afterwards, I figured the music is definitely one important component. The [countdown music](https://www.youtube.com/watch?v=bAZei663U0A) did a fantastic job building up tension in a rich and dynamic fashion. Loving the music so much and wanting to understand its power, I transcribed the key moments in this d-minor piece using [flat.io](https://flat.io/my-library). After the slow build-up of suspense in the beginning, the main theme began:
 
 <img src="/assets/scavengers-countdown-1.png"/>
 
