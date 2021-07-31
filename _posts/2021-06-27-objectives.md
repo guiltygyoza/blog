@@ -6,65 +6,35 @@ categories: game
 published: false
 ---
 
-想要積累沙盒概念的作品。
-想要聯絡 Jason Peng。
+Component
+- 尺度、風格擬真的人類城市，以 concept art *style* 成遊戲世界城市景觀。怎麼用 ML 做？RL + GAN?
+- 除開啟遊戲時的 minimal loading screen，其餘 UI 極小化。參考 exodus 的地圖作法，不打破 immersion。
+- open development。以 NFT 認證遊戲社群的成員。
+- 用 Unity prototype (AMP驅動角色操控，以及ML驅動城市生成為重點)，做 tech demo。之後為了做 multiplayer 可移至 UE 開發。
 
-A. 沙盒概念
+Development for AMP-driven character animation
+(1) RL driving one-DOF PD controller completing one objective (e.g. moving to destination; moving at certain direction at certain velocity)
+(2) Achieving (1) while mimicking style (e.g. orthogonal oscillation) via GAN-produced style reward
+(3) Extend to higher DOF
+
+Development for ML-driven cityscape generation
+(1) Do literature review on ML-PCG (https://twitter.com/sampsnodgrass/status/1395730164210933760?s=21)
 
 
-B. Tensorflow 接 UE4 概念
+Concept: 貓的視角、重慶洪崖洞的世界
+參考<我是貓>：
+- 被放在掌心上搜的一下舉起來，恍惚；近距離看人的面孔
+- 通過竹籬笆的破洞鑽進一個宅院
+- 抓起我地向頸項，向屋外扔去
+- 主人讀報的時候我總是坐在他的膝頭上，他睡午覺時我就趴在他的脊背上。
+- 趴在盛熱飯的小木桶上
+- 沙丁魚串的魚頭、鯔魚的腸子
+- 兩腿使勁向前一伸，把頭用力向下一低，打了一個大呵欠
+- 我不像車夫家老黑一樣，具有遠征到胡同口魚舖子的力量
+- 既吃孩子們吃掉下來的麵包渣，也吃掉落下來的點心餡
 
+Cat mocap from Hungarian animation studio Digic
+- https://nerdist.com/article/cats-wear-motion-sensors-motion-capture-animation-studio/
 
----
-
-A *3D PC expedition PvE + game*,
-where the player controls *hero cats navigating magical ancient cities of dramatic verticality using rich locomotive abilities*
-to help overcome *hostile creatures, stormy environment, suffocation in rising water level, and other adversarial teams of hero cats*
-to achieve *finding and preserving treasure, locating and escorting stranded magical kittens, and survival at extraction from the top of the city structures*.
-
----
-
-Goal
-- Sandbox as a stage, enabling stories
-- PCG-driven architecture, terrain
-- RL-driven character animation
-
-開發任務
-- 幾何結構堆疊的空間，RL 角色動畫移動、攀爬
-  - 用 wpo 推拉方塊 mesh 表面節點
-  - 用 tensorflow-ue4 接 wpo 推拉 mesh 表面節點
-  - 寫 blog 描述上述技術
-  - 了解 AMP/DeepMimic 的 python 框架，思考如何接入 UE4
-
-Concept
-- 古都，風沙 or 漲潮？
-- 尋寶
-- PvP
-- PvE -- 古都和沙裡(?)或/和水裏的生物、幽靈
-- 隨著沙高、水高提升，玩家可以進入更高的樓層
-- 最後從樓頂 extract
-- 移動機制
-  - 水平移動
-  - 垂直移動 -- 攀爬、垂降 (rapple descend)
-  - 水中移動、沙中移動 (半透明的沙？)
-  - 角色動畫由 RL 輔助生成
-    - reference: https://xbpeng.github.io/projects/AMP/index.html / https://xbpeng.github.io/projects/DeepMimic/index.html
-
-Idea
-- 千島湖？
-- 龍門飛甲
-- Mt Saint Michel
-- 都市建築結構由 PCG/ML 輔助設計 (layout! ~AI-assisted P&R)
-- 除 extraction 和尋寶外，加入更多目標，擴大策略空間
-- Faberge egg 蛋中城市
-- character 都是四腳動物 mechanical clone
-  - 如何戰鬥？射擊/格鬥
-  - 如何在水中移動？
-  - 每隻四腳動物皆獨特 -- MaoPunk 的貓？角色 NFT?
-- 寶藏是 NFT art 可擁有、交易、拍賣
-- 特殊技能是 NFT
-- 角色、角色特徵是 NFT
-- 如何允許跨 team 的溝通？跨 team 的 coop?
-
-PCG 參考資料
-- L4D: https://steamcdn-a.akamaihd.net/apps/valve/2009/ai_systems_of_l4d_mike_booth.pdf
+Potential investor
+- https://twitter.com/amytongwu
