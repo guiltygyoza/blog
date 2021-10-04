@@ -1,12 +1,12 @@
 # Site settings
-title: Thomas Hsueh
+title: guiltygyoza
 description:
-author: Thomas Hsueh
+author: guiltygyoza
 email:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://guiltygyoza.xyz" # the base hostname & protocol for your site
-twitter_username: ThomasHCHsueh
-github_username:  ThomasHCHsueh
+twitter_username: guiltygyoza
+github_username:  guiltygyoza
 
 # Build settings
 include: [_pages]
