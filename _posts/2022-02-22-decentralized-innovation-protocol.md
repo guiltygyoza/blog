@@ -6,7 +6,7 @@ categories: crypto
 published: true
 ---
 
-*Special thanks to Sylve Chevet, Perama, and Allison Duettmann for inspirations.*
+*Special thanks to Jessie Li, Perama, Allison Duettmann, Yijia Chen, and Sylve Chevet for inspirations.*
 
 TL;DR: On validity rollups, we can build decentralized innovation protocols, or *DIPs*, for open verifiable innovation. Together with new mechanisms of capital formation using the blockchain, we can decentralize capital-intensive and license- and commercial secret-heavy industries such as the semiconductor industry and increase the rate of innovation in these industries.
 
