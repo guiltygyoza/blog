@@ -8,7 +8,7 @@ published: true
 
 *Special thanks to Jessie Li, Perama, Allison Duettmann, Yijia Chen, and Sylve Chevet for inspirations.*
 
-TL;DR: On validity rollups, we can build decentralized innovation protocols, or *DIPs*, for open verifiable innovation. Together with new mechanisms of capital formation using the blockchain, we can decentralize capital-intensive and license- and commercial secret-heavy industries such as the semiconductor industry and increase the rate of innovation in these industries.
+TL;DR: On validity rollups, we can build decentralized innovation protocols, or *DIPs*, for open verifiable innovation, the core of each is the combination of an insert-only timestamped order-preserving idea ledger, an onchain verifier and an onchain simulator. Together with new mechanisms of capital formation using the blockchain, we can decentralize capital-intensive and license- and commercial secret-heavy industries such as the semiconductor industry and increase the rate of innovation in these industries.
 
 1- What is the true potential of validity rollups that leverage zero knowledge proofs?
 
