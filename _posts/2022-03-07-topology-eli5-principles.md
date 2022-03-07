@@ -30,13 +30,13 @@ Special thanks to Alan Luo, Daniel Hong, Sina Habibian, Alok Vasudev, and as alw
 
 11- Additionally, visualization is preferrable when the insight features parallelism or nonlinearity that is hard to articulate with words but trivial to convey in images.
 
-12- Thus, we can formalize the unit of communication for an insight at Topology into the following struct definition, Cairo-style:
+12- Thus, we can formalize the unit of communication for an insight at Topology into the following struct definition, in pseudo-Cairo syntax:
 ```
 
   struct Insight:
-      member ELI_5 : ShortParagraph
-      member ELI_15 : ShortThread
-      member ELI_40 (optional) : SixPager
+      member ELI-5 : ShortParagraph
+      member ELI-15 : ShortThread
+      member ELI-40 (optional) : SixPager
       member Visualisation (optional) : Schematics
   end
 
