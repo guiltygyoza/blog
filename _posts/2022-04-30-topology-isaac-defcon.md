@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Topology presents Isaac at DEFCON"
+title:  "Topology presents Isaac"
 date:   2022-04-30 00:00:00 -0500
 categories: crypto
 published: true
