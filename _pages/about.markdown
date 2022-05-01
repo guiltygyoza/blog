@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 {:refdef: style="text-align: center"}
-![profile](/assets/bitmoji_profile_small.jpg)
+![profile](/assets/defaced_small.jpeg)
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-AI, video games, crypto.
+Crypto, infinite games, AI.
 {: refdef}
