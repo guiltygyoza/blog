@@ -33,7 +33,7 @@ This is where the semblance of numpy, scipy, onnx belong. For example, see [Giza
 <br/><br/>
 
 #### Level 5: Programming language & compiler
-This is where the programs / design intent written in accessible and ergonomic notations at Level 5 and 6 are transformed into standardized objects (e.g. with respect to some instruction set architectures) that are susceptible to arithmetization. For example, see [Cairo](https://eprint.iacr.org/2021/1063.pdf){:target="_blank"} and [Risc0](https://github.com/risc0/risc0){:target="_blank"}.
+This is where the programs / design intent written in accessible and ergonomic notations at Level 5-7 are transformed into standardized objects (e.g. with respect to some instruction set architectures) that are susceptible to arithmetization. For example, see [Cairo](https://eprint.iacr.org/2021/1063.pdf){:target="_blank"} and [Risc0](https://github.com/risc0/risc0){:target="_blank"}.
 <br/><br/>
 
 #### Level 4: Arithmetization & architecture
