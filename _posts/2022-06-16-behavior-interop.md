@@ -11,7 +11,7 @@ ELI5: (1) Behavior interoperability across on-chain realities will be manifested
 ### Object interoperability is behavior interoperability
 What does it mean to have object interop?
 
-An object is apparently more than a hexstring that identifies it uniquely in the scope of an ERC-721 contract. An object, in its digital representation, may comprise parameters that specify its property, and code that describes its behavior; property ultimately is manifested by behavior (e.g. coefficient of elasticity impacts behavior animated by physics engine; aggressiveness impacts behavior animated by AI engine). Essentially, an object is its behavior. Therefore, object interop means to have objects *behave* in consistent ways across different realities. Object interop is behavior interop.
+An object is apparently more than a hexstring that identifies it uniquely in the scope of an ERC-721 contract. An object, in its digital representation, may comprise parameters that specify its property, and code that describes its behavior; property ultimately is manifested by behavior (e.g. restitution coefficient impacts behavior animated by physics engine; aggressiveness impacts behavior animated by AI engine). Essentially, an object is its behavior. Therefore, object interop means to have objects *behave* in consistent ways across different realities. Object interop is behavior interop.
 
 ### Behavior is manifested via computational model
 What is behavior?
