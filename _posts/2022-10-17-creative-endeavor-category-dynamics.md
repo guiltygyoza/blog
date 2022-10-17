@@ -6,27 +6,27 @@ categories: idea
 published: true
 ---
 
-Summary: In the context of individual pursuit and company pursuit, any creative endeavor could be put into one of four categories: Strategy, Design, Engineering, Science. Going top-down, strategy leads design, which leads engineering, which leads science. Going bottom-up, science informs engineering, which informs design, which informs strategy. Respecting this bidirectionality yields best results. Behind Strategy is the foundation of all creative endeavors: Vision.
+Summary: In the context of individual pursuit and company pursuit, any creative endeavor could be put into one of five categories: Vision, Strategy, Design, Engineering, Science. Going top-down, vision leads strategy, which leads design, which leads engineering, which leads science. Going bottom-up, science informs engineering, which informs design, which informs strategy, which informs vision. Respecting this bidirectionality yields best results.
 
-1- It seems that any creative endeavor, be it for the pursuit of an individual or of a company, could be put into one of four categories: Strategy, Design, Engineering, and Science.
+1- It seems that any creative endeavor, be it for the pursuit of an individual or of a company, could be put into one of five categories: Vision, Strategy, Design, Engineering, and Science.
 
-2- Strategy encapsultes the hollistic consideration of pursuing a Vision.
+2- Vision is the foundation of everything. It may come from personal motivation, collective philosophy, industry forces, or civilization trends.
 
-3- Design concerns envisioning individual projects to achieve strategic goals.
+3- Strategy encapsultes the hollistic consideration of pursuing a Vision.
 
-4- Engineering concerns the architecting and implementation of individual projects to realize design goals.
+4- Design concerns envisioning individual projects to achieve strategic goals.
 
-5- Science concerns open-ended or semi open-ended exploration of open questions that may inspire new engineering approaches or invalidate existing engineering approaches.
+5- Engineering concerns the architecting and implementation of individual projects to realize design goals.
 
-6- Behind Strategy is Vision - Vision is the foundation of everything. It may come from personal motivation, collective philosophy, industry forces, or civilization trends.
+6- Science concerns open-ended or semi open-ended exploration of open questions that may inspire new engineering approaches or invalidate existing engineering approaches.
 
 7- It is intuitive to take *the top-down approach* and assert that Vision leads Strategy (given a vision, strategic goals are devised to connect the present and the vision step by step), and that Strategy leads Design (given strategic goals, concrete actionable projects are designed to help achieve the goals), and that Design leads Engineering (given specific designs, engineering solutions are invented to materialize the designs), and that Engineering leads Science (given engineering challenges that can not be surpassed by pure engineering effort, open-ended investigation aka scientific method is used to expand the zone of understanding and explore new ideas). Without thinking top-down, priorities could be misplaced, and resources wasted pursuing misinformed goals, self-deceiving goals, or fleeting & fragmented insights.
 
 8- Yet *the bottom-up approach* is also crucial. Without reasonable strategic support, Vision stays a mirage. Without concrete Design ideas and specifications, Strategy is not actionable. Without Engineering informing what is practical, performant and efficient, Design materializes incompletely or does not materialize at all within resource constraints. Without Science's guidance, Engineering solutions may stay inaccessible, or may not touch upon the essential truth of the medium involved, which make them suboptimal at best, bruteforced at worst, and likely not future-proof.
 
-9- Another way to look at this is to think about *the interplay between medium and art*. Native art leverages the native properties of a medium. Without understanding what's native to a new medium, art created in that medium stays skeuomorphic and unable to realize true potential of the medium. In light of this analogy, Vision is the art with Strategy as medium. Strategy is the art with Design as medium. Design is the art with Engineering as medium. Engineering is the art with Science as medium.
+9- Another way to look at this is to think about *the interplay between medium and art*. Native art leverages the native properties of a medium. Without understanding what's native to a new medium, art created in that medium stays skeuomorphic and unable to realize true potential of the medium. In light of this analogy, Vision is the art with Strategy as medium. Strategy is the art with Design as medium. Design is the art with Engineering as medium. Engineering is the art with Science as medium. Equivalently, the lower categories inform the attainability and actionable items for upper categories.
 
-10- Oftentimes we encounter impasse - unable to clarify Vision, unable to formulate satisfying Strategy, unable to come up with enticing Design, unable to kickstart Engineering, unable to grapple with Science. It is helpful to switch gear and engage in endeavors in other categories that are actionable in the here and now. Sometimes progress made in one category could sunexpectedly tip the scale, boost morale, renew motivation, and open up new options to enable upper categories or lower categories. However, sticking to certain category for too long, perhaps because it stays deliciously actionable, without regularly reevaluating the bidrectionality and priorites could be dangerous.
+10- On how to *unblock* one's organization or oneself: oftentimes we encounter impasse - unable to clarify Vision, unable to formulate satisfying Strategy, unable to come up with enticing Design, unable to kickstart Engineering, unable to grapple with Science. It is helpful to switch gear and engage in endeavors in other categories that are actionable in the here and now. Sometimes progress made in one category could sunexpectedly tip the scale, boost morale, renew motivation, and open up new options to enable upper categories or lower categories. However, sticking to certain category for too long, perhaps because it stays deliciously actionable and perhaps the momentum of "making progress" is addictive, without regularly reevaluating the bidrectionality and priorites could be dangerous.
 
 11- In the context of company pursuit, let's use a recent snapshot of Topology as an example.
 
