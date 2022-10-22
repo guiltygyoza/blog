@@ -12,17 +12,17 @@ Summary: In the context of individual pursuit and company pursuit, any creative 
 
 2- Vision is the foundation of everything. It may come from personal motivation, collective philosophy, industry forces, or civilization trends.
 
-3- Strategy encapsultes the hollistic consideration of pursuing a Vision.
+3- Strategy encapsulates the hollistic consideration of pursuing a Vision.
 
 4- Design concerns envisioning individual projects to achieve strategic goals.
 
 5- Engineering concerns the architecting and implementation of individual projects to realize design goals.
 
-6- Science concerns open-ended or semi open-ended exploration of open questions that may inspire new engineering approaches or invalidate existing engineering approaches.
+6- Science concerns open-ended or semi open-ended exploration of open questions that may inspire new approaches or invalidate existing approaches in *any* of the categories above.
 
 7- It is intuitive to take *the top-down approach* and assert that Vision leads Strategy (given a vision, strategic goals are devised to connect the present and the vision step by step), and that Strategy leads Design (given strategic goals, concrete actionable projects are designed to help achieve the goals), and that Design leads Engineering (given specific designs, engineering solutions are invented to materialize the designs), and that Engineering leads Science (given engineering challenges that can not be surpassed by pure engineering effort, open-ended investigation aka scientific method is used to expand the zone of understanding and explore new ideas). Without thinking top-down, priorities could be misplaced, and resources wasted pursuing misinformed goals, self-deceiving goals, or fleeting & fragmented insights.
 
-8- Yet *the bottom-up approach* is also crucial. Without reasonable strategic support, Vision stays a mirage. Without concrete Design ideas and specifications, Strategy is not actionable. Without Engineering informing what is practical, performant and efficient, Design materializes incompletely or does not materialize at all within resource constraints. Without Science's guidance, Engineering solutions may stay inaccessible, or may not touch upon the essential truth of the medium involved, which make them suboptimal at best, bruteforced at worst, and likely not future-proof.
+8- Yet *the bottom-up approach* is also crucial. Without reasonable strategic support, Vision stays a mirage. Without concrete Design ideas and specifications, Strategy is not actionable. Without Engineering informing what is practical, performant and efficient, Design materializes incompletely or does not materialize at all within resource constraints. Without Science's guidance, Engineering solutions may stay inaccessible, or may not touch upon the essential truth of the medium involved, which makes them suboptimal at best, bruteforced at worst, and likely not future-proof.
 
 9- Another way to look at this is to think about *the interplay between medium and art*. Native art leverages the native properties of a medium. Without understanding what's native to a new medium, art created in that medium stays skeuomorphic and unable to realize true potential of the medium. In light of this analogy, Vision is the art with Strategy as medium. Strategy is the art with Design as medium. Design is the art with Engineering as medium. Engineering is the art with Science as medium. Equivalently, the lower categories inform the attainability and actionable items for upper categories.
 
