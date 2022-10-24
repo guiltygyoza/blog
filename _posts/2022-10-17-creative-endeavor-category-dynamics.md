@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dynamics among categories of creative endeavors"
+title:  "On creative endeavors // 五類創造性工作及交互作用"
 date:   2022-10-17 00:00:00 -0500
 categories: idea
 published: true
