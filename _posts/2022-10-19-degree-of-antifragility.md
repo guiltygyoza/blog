@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Degree of Antifragility"
+title:  "Degree of Antifragility // 反脆弱性"
 date:   2022-10-19 00:00:00 -0500
 categories: idea
 published: true
