@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Medium, validity rollup, and digital physics"
+title:  "On Medium, Validity Rollup, and Digital Physics"
 date:   2023-01-14 00:00:00 -0500
 categories: crypto
 published: true
