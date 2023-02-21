@@ -6,9 +6,9 @@ categories: idea
 published: true
 ---
 
-I have begun to use the following model to reason about team formation. Directly inspired by director-cartoonist-hacker-emissary, this model involves the interaction between four basic talent positions: Architect, Merchant, Hacker, Visionary in teams pursuing ambitious creative goals.
+I have begun to use the following model to reason about team formation. Directly inspired by the director-cartoonist-hacker-emissary model from [Emissary's Guide to Worlding](https://worldto.live/), this model involves the interaction between four basic talent positions: Architect, Merchant, Hacker, Visionary in teams pursuing ambitious creative goals.
 
-First to clarify the word "talent". By talent I mean Naval's concept of Specific Knowledge.
+First to clarify the word *talent*. By talent I mean Naval's concept of [Specific Knowledge](https://nav.al/specific-knowledge).
 
 ### Architect
 Architect architects - she is innately driven and experienced in architecting plans towards achieving goals. The Architect is innately impelled to take the responsibility of seeing the biggest pictures possible from the most practical standpoint and decide on action plans. The Architect may architect everything from annual goals, quarterly goals, project scoping, task chopping, sequencing and prioritisation, as well as hiring plans and fundraising plans. For the team, the Architect helps distill its vision and direction into actionable plans as well as drive risk identification and mitigation.
