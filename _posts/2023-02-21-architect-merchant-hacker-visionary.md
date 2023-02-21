@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Architect, Merchant, Hacker, Artist"
+title:  "Architect, Merchant, Hacker, Visionary"
 date:   2023-02-21 00:00:00 -0500
 categories: idea
 published: true
