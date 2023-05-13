@@ -6,7 +6,7 @@ categories: crypto
 published: true
 ---
 
-This is the last 2/3 of *Composable Engineering*, an essay that has been published in the Autonomous Worlds book by 0xPARC and edited by Guy Mackinnon-Little. The first 1/3, enhanced for completeness, can be found [here](https://www.guiltygyoza.xyz/2023/01/medium-rollup-digital-physics){:target="_blank"}. Special thanks to
+This is the last 2/3 of *Composable Engineering*, an essay that has been published in the Autonomous Worlds book by 0xPARC and edited by Guy Mackinnon-Little. The first 1/3, enhanced for completeness, can be found [here](https://www.guiltygyoza.xyz/2023/01/medium-rollup-digital-physics){:target="_blank"}.
 
 ### Engineering as creating in-the-World
 
