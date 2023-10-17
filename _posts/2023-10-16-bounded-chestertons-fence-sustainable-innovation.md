@@ -19,7 +19,7 @@ The lesson of Chesterton's Fence urges innovators to understand the contexts aro
 This problem is particularly frightening when the original aim is to innovate sustainably. Motivations behind sustainable innovation are the following:
 1. Attention is limited at the civilization scale. By choosing a field to contribute to, a talent effectively rejects other fields. The distribution of attention of our talents shapes the trajectory of our civilization.
 2. Tech debts warrant paybacks. There is externality to an individual endeavor. Not building sustainably means operating on parochiality and shortermism - not considering the emergent behavior and complexity in space (ie one's endeavor interacting with the environment and the system) and time (ie one's endeavor leaving a legacy for future generations). Operating on parochiality and shortermism may optimize for self gain but creates tech debts for the field. Tech debts burden our civilization by at least two ways: requiring future talents to allocate their attention to solving and refactoring the old mess which prohibits them from innovating on more pressing issues, and slowing down the advance of a field which may slow down other related fields.
-3. Our civilization presently stands at around Type 0.73 on the Kardashev Scale and may be facing the Great Filter. Every unit attention misallocated is attention not helping address pressing issues that may contribute to our civilization's downfall.
+3. Our civilization presently stands at around Type 0.73 on the Kardashev Scale and may be facing the Great Filter [1]. Every unit attention misallocated is attention not helping address pressing issues that may contribute to our civilization's downfall.
 
 Sustainable innovation requires operating on the principle of Chesterton's Fence and first principle thinking.
 
@@ -30,3 +30,6 @@ Similar to bounded rationality, we are limited by mental capacity and time and m
 - Don't think at the microphone or typewriter. Deliver unfiltered opinion and intuition.
 - Set temporary dont-fix items to be revisited.
 - Clearly state the known unknowns for the next study sessions.
+
+### Reference
+[1] Jiang et al, Avoiding the Great Filter: Predicting the Timeline for Humanity to Reach Kardashev Type I Civilization. https://www.mdpi.com/2075-4434/10/3/68
