@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bounded Chesterton's Fence and sustainable innovation"
-date:   2023-10-17 00:00:00 -0500
+date:   2023-10-16 00:00:00 -0500
 categories: idea
 published: true
 ---
