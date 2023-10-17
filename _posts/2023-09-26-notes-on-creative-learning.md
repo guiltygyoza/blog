@@ -12,15 +12,15 @@ Creative learning refers to the act of learning that is driven by the purpose of
 While learning creatively, the backdrop is your drive to create something. That something may be vaguely defined or clearly defined - this does not matter much. What matters more is the why that underlies the drive to create something. The why is personal and idiosyncratic. It helps to articulate the why at least to yourself. It helps to rearticulate it regularly in light of new information gained about yourself.
 
 ### Identify mental inhibitors, such as ego and fear.
-Ego can be a powerful inhibitor. Ego can say "that discpline feels inferior to this discpline that I am already expert in, and so I am not going to waste my time there." In Chinese this is sometimes called 鄙視鏈 among disciplines. Ego can overpower reason and curiosity.
+Ego can be a powerful inhibitor. Ego can say "that discipline feels inferior to this discipline that I am already expert in, and so I am not going to waste my time there." In Chinese this is sometimes called 鄙視鏈 among disciplines. Ego can overpower reason and curiosity.
 
-Fear can be a powerful inhibitor. Fear can say "that discpline feels superior to my discpline and likely more complex, and so I am not going to bang my head against the wall there just to embarrass myself." Fear can overpower reason and curiosity.
+Fear can be a powerful inhibitor. Fear can say "that discipline feels superior to my discipline and likely more complex, and so I am not going to bang my head against the wall there just to embarrass myself." Fear can overpower reason and curiosity.
 
 ### Avoid BHAW
 Avoid Banging the Head Against the Wall (BHAW) situation. The reasons behind each BHAW vary and can be personal. Figure them out. Sustained BHAW kills curiosity.
 
 ### Identify getting low on abstraction relative to the complexity of subjects. Reload.
-Abstraction is a primary ammo for learning creatively. Having insufficient abstractions for a given problem eventually leads to BHAW. My mental model for this one is: thinking in N-dimension could get nowhere if the problem is N+1 dimesional. A common symptom of being low on abstraction is trying to (almost dishonestly) fit square pegs into round holes, where square pegs are new problems and round holes are old familiar concepts. Another way to call this is the danger of metaphor (<- this assertion embodies the said danger). Do not get stuck there. Go back to studying and reload on abstractions. Go up in dimensions.
+Abstraction is a primary ammo for learning creatively. Having insufficient abstractions for a given problem eventually leads to BHAW. My mental model for this one is: thinking in N-dimension could get nowhere if the problem is N+1 dimensional. A common symptom of being low on abstraction is trying to (almost dishonestly) fit square pegs into round holes, where square pegs are new problems and round holes are old familiar concepts. Another way to call this is the danger of metaphor (<- this assertion embodies said danger). Do not get stuck there. Go back to studying and reload on abstractions. Go up in dimensions.
 
 ### Be water. Disregard interdisciplinary boundaries.
 Powerful abstractions and thought patterns exist in many disciplines under the guise of different terminologies. It is helpful to disregard boundaries between disciplines when studying. The World Wide Web combined with GPT means almost the entire treasure of human knowledge is available at your fingertip.
