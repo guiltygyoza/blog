@@ -9,5 +9,5 @@ permalink: /about/
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-Crypto, infinite games, AI.
+Decentralized programs, realities, AI.
 {: refdef}
