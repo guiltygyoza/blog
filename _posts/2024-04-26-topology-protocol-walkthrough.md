@@ -201,11 +201,9 @@ Prototyping effort is open sourced at [this repo](https://github.com/topology-fo
 
 We are currently tackling research problems around snapshot, compaction, coherence, consensus algorithms and security problems. Meetings notes from weekly collaborator calls can be found in [this repo](https://github.com/topology-foundation/meetings/tree/main/collaborators){:target="_blank"}.
 
-We are setting up our Berlin office and looking for research engineers to join us. More information to be shared soon.
+We are looking for research engineers to join us. More information to be shared soon.
 
 Expect regular public dev calls and blogposts for updates and discussions.
-
-<img src="/assets/2024-04-26/status.png"/>
 
 <br>
 ### Reference
@@ -226,7 +224,7 @@ Expect regular public dev calls and blogposts for updates and discussions.
 
 [8] Kleppmann et. al., Making CRDTs Byzantine Fault Tolerant, 2022. [link](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf){:target="_blank"}
 
-[9] Almeida et. al., The Blocklace: A Universal, Byzantine Fault-Tolerant, Conflict-free Replicated Data Type, 2024. (https://arxiv.org/pdf/2402.08068){:target="_blank"}
+[9] Almeida et. al., The Blocklace: A Universal, Byzantine Fault-Tolerant, Conflict-free Replicated Data Type, 2024. [link](https://arxiv.org/pdf/2402.08068){:target="_blank"}
 
 [10] Goldberg et. al., Smalltalk-80: the Language and its Implementation, 1983. [link](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf){:target="_blank"}
 
