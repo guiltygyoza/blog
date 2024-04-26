@@ -6,7 +6,7 @@ categories: idea
 published: true
 ---
 
-This essay captures the second presentation given at [Autonomous Anonymous 2024](https://aaworlds.com/){:target="_blank"} in Lisbon. The video recording is available [here](https://www.youtube.com/watch?v=ybYrJ5amDYc&ab_channel=AutonomousAnonymous){:target="_blank"}.
+This essay captures the second presentation given at [Autonomous Anonymous 2024](https://aaworlds.com/){:target="_blank"} in Lisbon. The video recording is available [here](https://www.youtube.com/watch?v=ybYrJ5amDYc&ab_channel=AutonomousAnonymous){:target="_blank"}. Special thanks to @goblinoats, @sylvechv, and @0xMugen\_ for engaging discussions.
 
 <br>
 ## Prerequisite
