@@ -8,6 +8,7 @@ permalink: /readings/
 - Isaac Asimov. (1956). <b>The Last Question</b>.
 - Tim Berners-Lee. (2000). <b>Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web</b>.
 - Liu Cixin. (2008). <b>The Three-Body Problem / The Dark Forest / Death's End</b>.
+- Ian Cheng. (2018). <b>Emissary's Guide to Worlding</b>.
 
 ## Papers
 - Leslie Lamport. (1978). <b>Time, Clocks, and the Ordering of Events in a Distributed System</b>.
@@ -17,6 +18,7 @@ permalink: /readings/
 Replicated Data Types</b>.
 - Bryan Ford. (2019). <b>Threshold Logical Clocks for Asynchronous Distributed Coordination and Consensus</b>.
 - Martin Kleppmann and Heidi Howard. (2020). <b>Byzantine Eventual Consistency and the Fundamental Limits of Peer-to-Peer Databases</b>.
+- Lior Goldberg et. al. (2021). <b>Cairo – a Turing-complete STARK-friendly CPU architecture</b>.
 - Jonathan H. Jiang et. al. (2022). <b>Avoiding the Great Filter: Predicting the Timeline for Humanity to Reach Kardashev Type I Civilization</b>.
 
 ## Writings
