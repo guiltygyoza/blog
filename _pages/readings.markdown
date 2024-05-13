@@ -21,6 +21,8 @@ Replicated Data Types</b>.
 
 ## Writings
 - Jon Postel. (1980). <b>Transmission Control Protocol</b>. [link](https://datatracker.ietf.org/doc/html/rfc761){:target="_blank"}
+- Jeff Bezos. (1997). <b>1997 Letter to Shareholders</b>. [link](https://www.sec.gov/Archives/edgar/data/1018724/000119312513151836/d511111dex991.htm){:target="_blank"}
+- Steve Jobs. (2010). <b>Thoughts on Flash</b>. [link](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/){:target="_blank"}
 - Moxie Marlinspike. (2016). <b>Reflections: The ecosystem is moving</b>. [link](https://signal.org/blog/the-ecosystem-is-moving/){:target="_blank"}
 - Martin Kleppmann et. al. (2019). <b>Local-first software: You own your data, in spite of the cloud</b>. [link](https://www.inkandswitch.com/local-first/){:target="_blank"}
 - Moxie Marlinspike. (2022). <b>My first impressions of web3</b>. [link](https://moxie.org/2022/01/07/web3-first-impressions.html){:target="_blank"}
