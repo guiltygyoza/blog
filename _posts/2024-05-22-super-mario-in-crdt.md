@@ -73,9 +73,10 @@ The code, running purely client-side, can be modified to update CRDTs in ways th
 
 Both the teleportation and telekinesis problem can be addressed by having the CRDTs "absorb" the physical laws of the game world. Time-related hacks seem tricker.
 
-Interestingly, as Penguin World is running peer-to-peer between players directly, being intolerant to Byzantine faults means *any* player can screw up or violate the norm one-sidedly. And since every CRDT update can be traced to its producer, Byzantine behavior is detectable*. This property makes Penguin World a trustful and collaborative space: everyone is trusted and expected to uphold the rules and values; anyone who doesn't will be spotted. As to how to recover from dishonest updates once they are detected is another story. For example, if the detection does not happen in time, more updates could have already happened after and causally depended* on the dishonest updates such that recovery involves rolling them back.
+Interestingly, as Penguin World is running peer-to-peer between players directly, being intolerant to Byzantine faults means *any* player can screw up or violate the norm one-sidedly. And since every CRDT update can be traced to its producer, Byzantine behavior is detectable (Yjs does not implement asymmetric cryptography but it is doable). This property makes Penguin World a trustful and collaborative space: everyone is trusted and expected to uphold the rules and values; anyone who doesn't will be spotted.
 
-*Yjs does not implement asymmetric cryptography but it is doable.
+As to how to recover from dishonest updates once they are detected is another story. For example, if the detection does not happen in time, more updates could have already happened after and causally depended* on the dishonest updates such that recovery involves rolling them back.
+
 *Yjs shared types do not provide causal consistency.
 
 ### Towards Topology Protocol
