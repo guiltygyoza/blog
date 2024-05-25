@@ -13,14 +13,14 @@ Why making Super Mario in CRDT?
 
 What does it mean?
 
-Implementing a multiplayer game in CRDT would enable pure peer-to-peer gameplay. No super nodes endowed with asymmetric power to determine the evolution of the game authoritatively. Infrastructure-less*. CRDTs mathematically guarantee that all peer replicas can write at the same time (multi-writer), never block one another (lock-free asynchrony), and that they will converge to the same state with probability 1. It also means the game is automatically load-balanced across all players.
+Implementing a multiplayer game in [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type){:target="_blank"} would enable pure peer-to-peer gameplay. No super nodes endowed with asymmetric power to determine the evolution of the game authoritatively. Infrastructure-less*. CRDTs mathematically guarantee that all peer replicas can write at the same time (multi-writer), never block one another (lock-free asynchrony), and that they will eventually converge to the same state with probability 1. It also means the game is automatically load-balanced across all players.
 
-Topology Protocol intends to be a protocol about peer-to-peer BFT-CRDT objects, or Conflict-free Replicated Objects (CROs). One use case of a CRO is to implement multiplayer peer-to-peer games. Long before we began conceptualizing the protocol, we wanted to see from our eyes if a game like Super Mario can be implemented in CRDT. So we took Yjs and created Penguin World, a multiplayer platformer lobby.
+Topology Protocol intends to be a protocol about peer-to-peer [BFT-CRDT](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf){:target="_blank"} objects, or Conflict-free Replicated Objects (CROs). One use case of a CRO is to implement multiplayer peer-to-peer games. Long before we began conceptualizing the protocol, we wanted to see from our eyes if a game like Super Mario can be implemented in CRDT. So we took [Yjs](https://github.com/yjs/y-webrtc){:target="_blank"} and created Penguin World, a multiplayer platformer lobby prototype.
 
-**Almost* infrastructure-less. For example, if using WebRTC, there is the need for WebRTC signaling to establish connection. Relay servers are needed if NAT is a problem.
+**Almost* infrastructure-less. For example, if using [WebRTC](https://webrtc.org/){:target="_blank"}, there is the need for WebRTC signaling to establish connection. Relay servers are needed if [NAT](https://en.wikipedia.org/wiki/Network_address_translation){:target="_blank"} is a problem.
 
 ### Yjs
-[Yjs](https://github.com/yjs/y-webrtc){:target="_blank"} implements common data types in CRDTs for making collaborative software. Yjs calls these data types "shared types". Projects like Evernote and JupyterLab use it.
+Yjs implements common data types in CRDTs for making collaborative software. Yjs calls these data types "shared types". Projects like Evernote and JupyterLab use it.
 
 Here's how it works. In Yjs land, when you build a collaborative application, you will need some state data that are shared: multiple users can access and mutate them concurrently. All these shared data should be typed with Yjs's shared types, and are typically defined in a collection called Yjs Document or `YDoc`.
 
@@ -78,4 +78,4 @@ Interestingly, as Penguin World is running peer-to-peer between players directly
 *Yjs shared types do not provide causal consistency.
 
 ### Towards Topology Protocol
-We are fascinated by the affordnace of lock-free asynchronous interaction provided by CRDT/OT techniques and we are actively creating a [protocol](https://github.com/topology-foundation/paper){:target="_blank"} about Conflict-free Replicated Objects or CROs. We believe that CROs complement smart contracts in the tradeoff space of consistency models, and that combining them would take the expressiveness of decentralized applications to a whole new level.
+We are fascinated by the affordnace of lock-free asynchronous interaction provided by CRDT/[OT](https://en.wikipedia.org/wiki/Operational_transformation){:target="_blank"} techniques and we are actively creating a [protocol](https://github.com/topology-foundation/paper){:target="_blank"} about Conflict-free Replicated Objects or CROs. We believe that CROs complement smart contracts in the tradeoff space of consistency models, and that combining them would take the expressiveness of decentralized applications to a whole new level.
