@@ -38,7 +38,7 @@ If I can't explain something in plain language with a sharpy on a whiteboard, in
 
 If the strongest reason I can think of behind a strategy is "successful businesses did it before", my alarm goes off big time. Successful patterns succeeded in the past, potentially in very different circumstances. Our challenge lies in creating an alternate future. If we are creating something new, it is likely that our organizational structure needs to [reflect that](https://en.wikipedia.org/wiki/Conway%27s_law){:target="_blank"}. That means questioning common business practices, common management practices, common org structures. If we are creating something new and contrarian, there must be common assumptions made by everyone else that are wrong. What are they? People who make such assumptions aren't stupid at all. Why do they make them? To find out, if I need to devour information at 3 feet altitude I will do that. If I so much as sense an epistemic connection between the intractable problems at hand and a distant discipline, I will go there to study it and talk to their people.
 
-And it's definitely not about questioning for questioning's sake. Feeling good about questioning everything is not helpful. We need to be biased toward taking actions especially the vast majority of those whose outcomes are reversible.
+And it's definitely not about questioning for questioning's sake. Feeling good about questioning everything is not helpful. We need to be biased toward taking actions especially the vast majority of those whose outcomes are [reversible](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm){:target="_blank"}.
 
 ### How hard can it be?
 It may be already rare to ask that question in the face of uncertainty.
