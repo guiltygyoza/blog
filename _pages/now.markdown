@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: post
 title: Now
 permalink: /now/
 ---
@@ -8,4 +8,8 @@ permalink: /now/
 ![profile](/assets/pfp2.png)
 {: refdef}
 
-Working on [Topology Protocol](https://paper.topology.gg/){:target="_blank"}.
+### Last updated
+Sep. 2024 in Taipei, Taiwan
+
+### Current focus
+Materializing [Topology Protocol](https://paper.topology.gg/){:target="_blank"}
