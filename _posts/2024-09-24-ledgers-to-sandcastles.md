@@ -8,7 +8,7 @@ published: true
 
 <img src="/assets/sandcastle.png" width="700">
 
-This essay is also published on [Topology's Blog](https://blog.topology.gg/from-ledgers-to-sandcastles/){:target="_blank"}. The sandcastle drawing is produced by [Ranyah Al-gubani](https://x.com/ra_algubani){:target="_blank"}
+This essay is also published on [Topology's Blog](https://blog.topology.gg/from-ledgers-to-sandcastles/){:target="_blank"}. The sandcastle drawing is produced by [Ranyah Al-gubani](https://x.com/ra_algubani){:target="_blank"}.
 
 ## 1. The smart contract ink
 "If code is law on a blockchain, smart contract is the ink that legislates. The law of a digital space is its digital physics. To create digital spaces that are truly sovereign, we ought to use this ink to legislate its digital physics."
