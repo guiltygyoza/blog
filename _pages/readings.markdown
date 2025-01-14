@@ -6,6 +6,7 @@ permalink: /readings/
 
 ## Books
 - Isaac Asimov. (1956). <b>The Last Question</b>.
+- Isaac Asimov. (1951). <b>Foundation</b>.
 - Tim Berners-Lee. (2000). <b>Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web</b>.
 - Liu Cixin. (2008). <b>The Three-Body Problem / The Dark Forest / Death's End</b>.
 - Ian Cheng. (2018). <b>Emissary's Guide to Worlding</b>.

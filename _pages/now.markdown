@@ -9,7 +9,7 @@ permalink: /now/
 {: refdef}
 
 ### Last updated
-Sep. 2024 in Taipei, Taiwan
+Jan. 2024 in Kerala, India
 
 ### Current focus
-Materializing [Topology Protocol](https://paper.topology.gg/){:target="_blank"}
+Materializing [RAM](https://www.topology.gg/){:target="_blank"} for the world computer.
