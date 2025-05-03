@@ -9,7 +9,7 @@ permalink: /now/
 {: refdef}
 
 ### Last updated
-Jan. 2024 in Kerala, India
+May. 2024 in Taipei, Taiwan
 
 ### Current focus
-Materializing [RAM](https://www.topology.gg/){:target="_blank"} for the world computer.
+Adding RAM to the world computer.
