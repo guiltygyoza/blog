@@ -10,7 +10,7 @@ published: true
 
 <img src="/assets/2025-05-03/dokra-bronze-fish.jpg" style="width:35%;display:flex;justify-content:center;"/>
 
-I have a bronze fish. It’s got stripes and big round eyes. A Dokra fish. By design it’s supposed to stand on its fins, but my particular fish has a shorter left fin. It doesn’t stand. So I let it lie beneath my monitor.
+I have a bronze fish. Stripes and big round eyes. A Dokra fish. By design it’s supposed to stand on its fins, but my particular fish has a shorter left fin. It doesn’t stand. So I let it lie beneath my monitor.
 
 The fish is a memorabile from a friend in India. Trivandrum. It’s a small city next to the ocean, along the southwestern coastline. I had never been to India before. Trivandrum was my first encounter.
 
