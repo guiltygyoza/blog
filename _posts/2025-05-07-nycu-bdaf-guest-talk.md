@@ -6,11 +6,25 @@ categories: idea
 published: false
 ---
 
-With the kind invitation of Martinet at Quantstamp/Zircuit, I gave a guest lecture at [NYCU](https://www.nycu.edu.tw/nycu/ch/index){:target="_blank"} for the [Blockchain Development and FinTech  course](https://github.com/bdaf-course/bdaf-coursepage){:target="_blank"}. The following captures the talk in text form.
+With the kind invitation of Martinet at Quantstamp/Zircuit, I gave a guest lecture at [NYCU](https://www.nycu.edu.tw/nycu/ch/index){:target="_blank"} for the [Blockchain Development and FinTech course](https://github.com/bdaf-course/bdaf-coursepage){:target="_blank"}. I took the liberty to define the nature my talk, one that situates the advent of decentralized consensus networks in a bigger picture. I challenged myself to trace things back 100 years, back to when Hitler became the leader of the reestablished Nazi party. Why?
+
+"*Chancellor on brink of second bailout for banks*" was engraved into the genesis block of Bitcoin. This industry was born from the invention of a global digital ledger that explicitly wishes to disassociates itself from the governments of the world. Why? On the streets, one would have no trouble finding a large number of answers - the issue with the dollar's worth, US debts and so on. Case in point, just over the last few days the industry's timeline is filled with comments about the [downgrade of US credit rating](https://www.wsj.com/economy/central-banking/u-s-loses-last-triple-a-credit-rating-bfcbae5d){:target="_blank"} and the rising of bond yields.
+
+<img src="/assets/2025-05-07/us-credit-rating-downgraded.png" />
+
+Yet, this industry cares enormously about what the regulators think. News about ETF approvals stroke the nerves of market participants. A system that was created to operate fiercely independently in spite of governments are valued by investors closely watching the sentiment of governments toward said system. That is a fascinating paradox.
+
+All in all, I wish to dig into the history myself on the tanglement of money and geopolitics, gain my own perspective, and share my learning with the students.
+
+History fascinates me. One can depth-first-search endlessly in the literatures. It also humbles me. There are so much interdependent factors at work that I am afraid any of my attempts to connect some dots in support of specific arguments are doomed to be premature. But I reconsidered. A while ago I stumbled upon [*Bird by Bird*](https://www.goodreads.com/book/show/12543.Bird_by_Bird){:target="_blank"} by Anne Lamott, a book about how to write:
+
+> *We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother's shoulder, and said "Bird by bird, buddy. Just take it bird by bird."*
+
+I decided that it's ok to take the history bird by bird. It's ok to share my embeddings while I am still going through my input data. It's ok to override past expressions in light of new learning.
+
+The following captures the talk in text form.
 
 ---
-
-(preface)
 
 ## Debt & Currency
 <img src="/assets/2025-05-07/debt-1.jpg" />
