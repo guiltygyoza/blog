@@ -13,3 +13,4 @@ permalink: /bookshelf/
 - *The Crowd* - Gustave Le Bon.
 - *Pieces of the Action* - Vannevar Bush.
 - *Seven Brief Lessons on Physics* - Carlo Rovelli.
+- *Bird by Bird* by Anne Lamott.
