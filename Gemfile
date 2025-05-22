@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-ruby '3.0.2'
-gem 'bundler', '~> 2.2'
+ruby '3.3.8'
+gem 'bundler', '~> 2.5'
 gem 'jekyll'
 gem 'rack-jekyll'
 gem 'jekyll-feed'
