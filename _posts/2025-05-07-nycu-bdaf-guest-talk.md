@@ -3,7 +3,7 @@ layout: post
 title:  "NYCU BDAF guest lecture"
 date:   2025-05-07 00:00:00 -0500
 categories: idea
-published: true
+published: false
 ---
 
 With the kind invitation of Martinet at Quantstamp/Zircuit, I gave a guest lecture at [NYCU](https://www.nycu.edu.tw/nycu/en/index){:target="_blank"} in Taiwan for the [Blockchain Development and FinTech course](https://github.com/bdaf-course/bdaf-coursepage){:target="_blank"}. I took the liberty to define the nature my talk, one that situates the advent of decentralized consensus networks in a bigger picture. I challenged myself to trace things back 100 years, back to when Hitler became the leader of the reestablished Nazi party. Why?
@@ -179,12 +179,17 @@ The essay came out and was not well received, but at the end of the same year th
 <br/>
 <img src="/assets/2025-05-07/ideology-5.jpg" />
 
-But is it really so? Has the history really ended then? With the wisdom of the hindsight, we know that the global financial crisis happened in 2009. What happened was that credit expanded, there were lots of money slushing around seeking returns. Real estates were
+But is it really so? Has the history really ended then? With the wisdom of the hindsight, we know that the global financial crisis (GFC) happened in 2009. What happened was that credit expanded, there were lots of money slushing around seeking returns and finding their way to real estates. The housing bubble formed and bursted. Multiple rounds of quantative easings - the minting of new US dollars into the Federal Reserve - were initiated to buy up the bad debts.
 
+David Graeber, author of *Debt: The First 5000 Years*, argued that despite the US being a democracy, the financial elite of 1% wield disproportionate power in policy-making at the expense of the other 99%. The aftermath of GFC demonstrated a form of injustice where the large banks were relieved but the many bankrupted and unemployed people were left to their own devices. Graeber later became a significant figure in the Occupy Wall Street movement.
 
 <br/>
 
 ## Global consensus argmin geopolitics
+
+So we have seen many examples. When some people owe some other people money and geopolitical interests are involved, lots of people end up getting hurt badly in one way or another.
+
+Which bears the question: can we design a system where the influence of geopolitics is minimized? In this system, we want no ambiguity as to what exactly has happened. It operates as a global book of truths, whose access and correctness
 
 <br/>
 <img src="/assets/2025-05-07/ethereum-1.jpg" />
