@@ -189,35 +189,104 @@ David Graeber, author of *Debt: The First 5000 Years*, argued that despite the U
 
 So we have seen many examples. When some people owe some other people money and geopolitical interests are involved, lots of people end up getting hurt badly in one way or another.
 
-Which bears the question: can we design a system where the influence of geopolitics is minimized? In this system, we want no ambiguity as to what exactly has happened. It operates as a global book of truths, whose access and correctness
+Which bears the question: can we design a global system where the influence of geopolitics is minimized? In this system, we want no ambiguity as to what exactly has happened. It would operate as the global, canonical book of truths. Its access would be open to all without discremination. Its correctness endures even when facing the strong-arming of entites as powerful as nation states.
+
+Let's talk about Ethereum.
 
 <br/>
 <img src="/assets/2025-05-07/ethereum-1.jpg" />
-...
+
+In 2014, the founders of Ethereum were living in a house in Zug, nicknamed "Spaceship". It's where the early codes were written and the vision was debated.
+
+<br/>
 <img src="/assets/2025-05-07/ethereum-2.jpg" />
-...
+
+In 2022, the merge happened. The Ethereum codebase was modularized into consensus and execution client. At the merge proof-of-stake consensus clients replaced their proof-of-work predecessors.
+
+<br/>
 <img src="/assets/2025-05-07/ethereum-3.jpg" />
-...
+
+Nowadays, how Ethereum works is that we have the users of Ethereum submitting transactions, with no single entity possessing the globally complete bird's eye view. It's a distributed system. So the transaction log naturally looks like a tree, because the different copies of the chain would be looking at different views, and they append new blocks to their frontier (head). As these copies merge, you get a tree. But we want a blockchain, not block-tree. We want a canonical sequence of events that is agreed upon globally. How do you get that?
+
+<br/>
 <img src="/assets/2025-05-07/ethereum-4.jpg" />
-...
+
+You find a linear path among the nodes of the tree, originating from its root. The algorithm to find that path given a tree is the called the fork choice rule. The outcome is you get a sequence of blocks and that's your canonical sequence. Every (full) node of your blockchain runs this algorithm.
+
+
+<br/>
 <img src="/assets/2025-05-07/ethereum-5.jpg" />
-...
+
+Ethereum's fork choice rule works by the validator nodes "voting" (attesting) for blocks they saw on the network, propagated to them by their peers. The power of their vote depends on how much ETH the validator has staked into the system, so that there's something at stake. Tallying the votes give you a score per block. The linear path is found based on these scores.
+
+Ethereum's fork choice rule is called the [LMD-GHOST](https://eth2book.info/capella/part2/consensus/lmd_ghost/){:target="_blank"}.
+
+<br/>
 <img src="/assets/2025-05-07/ethereum-6.jpg" />
-...
+
+We have covered how the fork choice rule works to find a linear sequence of blocks. What Ethereum also does is it can finalize this path. Unlike Bitcoin, which strictly speaking does not really finalize things. So in Bitcoin or Bitcoin-like systems, you can have drastic shift from a linear path to another linear path because some minders were mining many blocks in secret with superior hash power. This is undesirable, because the users don't have the strict guarantee that what's onchain will stay there forever. It's a problem of probability. That's why Bitcoin recommends a 12-block waiting time.
+
+The post-merge Ethereum provides finality. What's finalized is final, they will never change, based on the underlying cryptoeconomic guarantees. Ethereum uses an approach that essentially is just a variation of the [two-phase commitment](https://en.wikipedia.org/wiki/Two-phase_commit_protocol){:target="_blank"}.
+
+Ethereum's finality algorithm is called the [Casper FFG](https://eth2book.info/capella/part2/consensus/casper_ffg/){:target="_blank"}. So Ethereum has LMD-GHOST* looking at the tree and picking the linear path up front, like the explorative tendrils of a starfish, and Casper FFG following closely behind to produce the finalized, ossified path.
+
+*LMD-GHOST has to be modified to work with Casper FFG, so that instead of finding a path that originates from the tree root (genesis block), it originates from the latest finalized block by Casper FFG.
+
+<br/>
 <img src="/assets/2025-05-07/ethereum-7.jpg" />
-...
+
+The temporal structure of the Ethereum blockchain consists of slots and epochs. A slot is the basic unit of time, where a single block happens. 32 consecutive slots form a single epoch.
+
+If a supermajority of validators attested to a block, that block becomes "justified". If I, as a block, have a child block that is justified, I become double-justified which simply means I become finalized.
+
+<br/>
 <img src="/assets/2025-05-07/ethereum-8.jpg" />
-...
+
+I want to specifically point out that the choice of these numbers is not arbitrary.
+
+Ethereum's slot time is set to 12 seconds. Why chose 12? We can through an estimation:
+
+- Back in September 2022, the total amount of staked ETH was about 14 million.
+- A validator must stakes minimum 32 ETH to qualify. So the maximum amount of validators is 14M/32.
+- Supermajority is two thirds. So a block needs to get 14M/32*2/3 (~291600) attestations to become justified.
+- For home stakers, they must stay caught up to the tip of the blockchain. This means a consumer laptop needs to be able to verify the attestations of a justified block within one slot time. To verify an attestation largely means to verify a BLS signature attached to it. So a home staker needs to verify 291600 BLS signatures per slot time.
+- How many BLS signatures can a consumer laptop verify in a second? About 1000, according to my [benchmark in Go](https://github.com/guiltygyoza/bls-benchmark/tree/main){:target="_blank"}. Let's give it a 20% margin. So 800 per second. This means a consumer laptop can work with a 14M/32*2/3/800 (~365 seconds) slot time.
+- However, a 365-second slot time is not very useable. One must wait about 6 minutes of a spinning circle for just the earliest sign of transaction confirmation. So Ethereum divides up the validators into 32 groups, and distributes the attestation job across 32 slots, one group per slot. The amount of signatures to be verified per slot becomes 14M/32*2/3/32 ~ 9110. The slot time acceptable by home stakers become 9110/800 ~ 11.4 seconds, which gets us very close to 12.
+
+The keyword here is "consumer laptop". Ethereum wants consumer laptops to be able to participate directly in its consensus process. I think one part of the motivation is that Ethereum wishes to minimize geopolitical influence in its system. So it wants the little guys to be able to participate directly.
+
+If you have a system that requires the big guys to work, you are tying your system correctness to the relatively affluent participants, whose population is very unevenly distributed in the world. In short, you would not be minimizing geopolitcal influence in your system then.
+
+I think these design choices really illuminate what Ethereum is designed for.
+
+<br/>
 
 ## Coordination avoidance
+
+I want to move on to the topic of coordination avoidance.
+
+At first glance it might sound very strange. After all, global consensus is all about coordination, right? We are in a network, you tell my what you've seen, I tell you what I've seen, and let's cryptographically signed on things to find agreement. So why avoiding coordination?
+
+<br/>
 <img src="/assets/2025-05-07/crdt-1.jpg" />
-...
+
+
+<br/>
 <img src="/assets/2025-05-07/crdt-2.jpg" />
+
 ...
+
+<br/>
 <img src="/assets/2025-05-07/crdt-3.jpg" />
+
 ...
+
+<br/>
 <img src="/assets/2025-05-07/crdt-4.jpg" />
+
 ...
+
+<br/>
 <img src="/assets/2025-05-07/crdt-5.jpg" />
 ...
 <img src="/assets/2025-05-07/crdt-6.jpg" />

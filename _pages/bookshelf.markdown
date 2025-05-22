@@ -15,6 +15,8 @@ permalink: /bookshelf/
 - *The Case for Mars* - Robert Zubrin.
 
 ### Fiction
-- *The Foundation series* / *Franchise* / *The Last Question* - Isaac Asimov.
+- *The Foundation series* - Isaac Asimov.
+- *Franchise* & *The Last Question* (short stories) - Isaac Asimov.
 - *The Three-Body Problem series* - Liu Cixin.
-- *There Is No Antimemetics Division* / *Ra* - qntm.
+- *There Is No Antimemetics Division* - qntm.
+- *Ra* - qntm.
