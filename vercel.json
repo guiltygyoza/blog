@@ -2,10 +2,10 @@
   "buildCommand": "bundle install && jekyll build",
   "outputDirectory": "_site",
   "framework": "jekyll",
-  "installCommand": "gem install bundler:2.4.22 && bundle install",
+  "installCommand": "gem install bundler:2.2.33 && bundle install",
   "build": {
     "env": {
-      "RUBY_VERSION": "3.3.0"
+      "RUBY_VERSION": "3.0.2"
     }
   }
 }
