@@ -22,9 +22,9 @@ But I reconsidered. A while ago I stumbled upon [*Bird by Bird*](https://www.goo
 
 > *We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother's shoulder, and said "Bird by bird, buddy. Just take it bird by bird."*
 
-I decided that it's ok to take the history bird by bird. It's ok to share my embeddings while I am still rummaging through my input data. It's ok to override past expressions in light of new insights.
+I decided that it's ok to take the convoluted history bird by bird. It's ok to share my embeddings in-flight, as I rummage through my input data.
 
-The following captures the talk in text form.
+The following captures the talk in cleaned up text form.
 
 ---
 
@@ -68,52 +68,125 @@ What's also interesting is before the gold-backed system was decided, another sy
 <br/>
 <img src="/assets/2025-05-07/debt-6.jpg" />
 
-So eventually we came to this Bretton Woods system. The idea is that gold is rare and everyone wants gold. Gold is cleraly the desire of all human beings. Let's use gold as the ultimate value denominator. Let's fixed US dollars to one ounce of gold exchanged for 35 US dollars as a constant. And let's negotiate fixed exchanged rates between US dollar and each of the currencies of other nations. So all the rates were determiined at the conference, obviously a lot of politics were involved, based on who contributed and who had stronger voices. But this was the order coming out of WWII.
+So eventually we came to this Bretton Woods system. The idea is that gold is rare and everyone wants gold. Gold is cleraly the desire of all human beings. Let's use gold as the ultimate value denominator. Let's fixed the US dollars to one ounce of gold exchanged for 35 US dollars as a constant. And let's negotiate fixed exchange rates between the US dollar and each of the currencies of other nations. So all the rates were determined at the conference, obviously a lot of politics were involved, based on who contributed and who had stronger voices. But this was the order coming out of WWII.
 
 <br/>
 <img src="/assets/2025-05-07/debt-7.jpg" />
 
-...
+But what happened after WWII in ten years time was the Vietnam war. There was a dominant theory called the Domino Theory. The idea is that the US feared communism and they wanted to contain communism from spreading from the Soviet Union and China. They had to stop it from spreading across Vietnam because the Domino Theory stated that if Vietnam were to be lost to communism, it would spread through other countries eventually reaching all the other South Asian countries. So Vietnam was where the fight had to happen. But there were agreements in place that forbid Western countries from putting armies in Vietnam. So the US deployed military advisors, who didn't carry guns and were supposed to teach people how to fight their own war, sort of technically bypassing the agreement. That was in 1955.
 
 <br/>
 <img src="/assets/2025-05-07/debt-8.jpg" />
-...
+
+John F. Kennedy became the US president in 1961. The idea was that he was going to protect the liberal world order. I'm going to read a little bit from his inauguration speech when he took the office. "*Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe, in order to assure the survival and the success of liberty.*" Which meant that the US increased spending and its involvement in Vietnam.
+
 <br/>
 <img src="/assets/2025-05-07/debt-9.jpg" />
-...
+
+Guess what, when you have to fight a war you need to spend a lot of money. But the money, which was the US dollar in this case, was pegged to the gold at a fixed rate. Substantial increase in war spending, among other spendings, led to a growing budget deficit. You have massive people that were questioning the worth of the US dollar.
+
+In 1965, there was this idea of *privilège exorbitant*. Enormous privilege was conferred to the country whose money was the international settlement dollar, allowing them to not care about trade imbalances while all other countries had to. What happened was that French warships carrying US dollars from the French treasury were sent to New York to redeem said dollars for gold from the US government. Many countries followed suit. This caused gold to exit the US. After the WWII, the US had 70% of circulating gold worldwide. With these redemptions, the US had gone down to 40% of the global gold. And you can't have only 40% of the gold worldwide for backing the international dollar. It stopped making sense.
+
 <br/>
 <img src="/assets/2025-05-07/debt-10.jpg" />
-...
-<img src="/assets/2025-05-07/debt-11.jpg" />
-...
-<img src="/assets/2025-05-07/debt-12.jpg" />
-...
-<img src="/assets/2025-05-07/debt-13.jpg" />
-...
 
+So with redemptions, and rampant speculative trading activities, what happened in 1971 was the Nixon Shock. *Ok, everybody cools down, and from today no one can redeem the US dollars for gold.* This severed the connection between the US dollars and the gold. Widespread controversy and panic ensued. What's the worth of the US dollar now if you can't redeem it for its underlying asset? As if it has become a game coin.
+
+<br/>
+<img src="/assets/2025-05-07/debt-11.jpg" />
+
+Immediately at the end of the same year was the Smithsonian Agreement. If everyone questions the worth of the US dollar, let's devalue it. It was devalued by 8.25% at the end of 1971. And other currency were renegotiated. For reasons such as the oil prices and other things, which we will cover later, in 1976 basically everyone gave up and said ok from now on, the currency rates are floating.
+
+<br/>
+<img src="/assets/2025-05-07/debt-12.jpg" />
+
+Fast forward to 2011. US debt ceiling. Imagine you are the US government. Congress has written into the law that says there is only so much debt you can bear at any given moment, so you want to be responsible and don't borrow too much money to stay below the ceiling. What happened in 2011, which happened many times in the past, was that the debt ceiling was reached but the government needed to borrow more money from other countries. Congress said no. So the government had to start cutting all kinds of expenses. Imagine if US cannot pay back the interests on the money they borrowed from other countries. That basically means the US government is defaulting, effectively bankrupt. And if the US government bankrupts, what does that say about the worth of the US dollar? The world is going to look very different not in a very good way. So the congress was scrambled together and lifted the debt ceiling. The ceiling then sit at $14 trillion.
+
+In 2023 the ceiling was hit again, this time at $31 trillion. What happens when you hit the ceiling is that you stop paying your medical systems and your social programs, because you cannot afford to bankrupt, so you have to keep paying other countries to maintain your trustworthiness. But the people end up suffering, particularly the people that are underprivileged.
+
+<br/>
+<img src="/assets/2025-05-07/debt-13.jpg" />
+
+This is a screenshot of the [federal debt chart](https://fred.stlouisfed.org/series/GFDEBTN){:target="_blank"}. Right now US debt stands at $36 trillion. There was [an act in 2023](https://www.congress.gov/bill/118th-congress/house-bill/3746){:target="_blank"} that froze the debt ceiling two years ago until January 2025, around the time when Trump came to office the second time. The ceiling came back. Now the ceiling has been breached already, meaning the US government is in the regime of exercising extraordinary measures - cutting down aids for poor people, cutting down social programs, including [aids that go to Vietnamese families](https://vietnam-aujourdhui.info/2025/02/18/agent-orange-twisted-her-limbs-the-u-s-is-abandoning-a-vow-to-help/){:target="_blank"} who suffered from the Vietnam war.
+
+<br/>
 ## Petrodollar
+
+We are switching to the topic of the petrodollar. No more gold backing the dollar. What then is the worth of the dollar?
+
+<br/>
 <img src="/assets/2025-05-07/petrodollar-1.jpg" />
-...
+
+The Yom Kippur War occurred in 1973 on Yom Kippur, the holiest day for the Jewish people. For context, Israel's intelligence and military leadership had held on to "The Concept" since Israel won the Six-Day War in 1967. The idea of The Concept is that (1) Egypt would not start a war with Israel until their air force recovers (Egypt lost nearly half of its air force on the first day of the Six-Day War) (2) Syria would not start a war with Israel unless Egypt attacks as well. The Concept turned out to be incorrect. Egypt and Syria coordinated a successful surprise attack on October 6, 1973. Israel lost around 1300 soldiers in the first 3 days.
+
+Eventually a ceasefire was mediated by the United Nation. Then president of Egypt - Anwar el-Sadat - and prime minister of Israel - Menachem Begin - received the Nobel Peace Prize in 1978 for their efforts to create peace between their countries.
+
+<br/>
 <img src="/assets/2025-05-07/petrodollar-2.jpg" />
-...
+
+The oil-producing Arab countries (OAPEC) did not recognize the sovereignty of Israel (most of them today still don't). In 1973, they protested against the countries that supported Israel during the Yom Kippur War by stopping the oil shipping to these countries, including the US, UK, Canada and Japan.
+
+The US was importing 70% of its oil from the OAPEC. The oil embargo had a great impact. In 1974 oil price surged as much as 400%, from $3 a barrel to nearly $12. Cars sit idle at gas stations because there were no gas. [Odd-even rationing](https://en.wikipedia.org/wiki/Odd%E2%80%93even_rationing){:target="_blank"} were practiced.
+
+<br/>
 <img src="/assets/2025-05-07/petrodollar-3.jpg" />
-...
+
+Eventually the embargo ended. However oil prices did not return to their pre-crisis levels. Wealth transfer, denominated in US dollars, continued from oil-importing nations to the oil exporters. Yet agreements were formed to create, in theory, the so called "petrodollar recycling" system.
+
+The idea of petrodollar recycling is that Saudi Arabia would price their oil in US dollars, take the US dollars it earns through oil export and reinvest them US financial assets, primarily by buying US bonds and equipments for oil excavation. In return, the US offers military support. This created a sustained global demand for the US dollars and reinforced its status as the world's reserve currency.
+
+<br/>
 <img src="/assets/2025-05-07/petrodollar-4.jpg" />
-...
+
+To reinforce the idea of the petrodollar system. In 2000, the president of Iraq, Saddam Hussein, unilaterally announced that their oil export would be denominated in [euros](https://www.rferl.org/a/1095057.html){:target="_blank"}, not US dollars.
+
+Perhaps no one could really draw the causality between this dollar-severing act and the Iraq War that ensued in 2003. Official reasoning for the War was Iraq's alleged possession of weapons of mass destruction, which was never found. After the war, the US took over the oil producing facilities in Iraq, and Iraq's oil export returned to the US dollar for pricing and settlement.
+
+We can see how national interests are deeply entangled in the world of currencies, which the wellbeing of many are relied upon.
+
+<br/>
 
 ## Ideology vs realism
+
+This brings us to the topic of ideology vs realism, in the context of geopolitics.
+
+<br/>
 <img src="/assets/2025-05-07/ideology-1.jpg" />
-...
+
+The Tiananmen Square protests and massacre transpired on June 4, 1989. Around 100,000 soldiers and 200 tanks rolled into Beijing. Estimated 3000 civilians dead.
+
+Officially the root cause was that there were students, manipulated by the West, protesting for democracy and the rejection of the Chinese Communist Party (CCP).
+
+<br/>
 <img src="/assets/2025-05-07/ideology-2.jpg" />
-...
+
+What happened was that the cultural revolution ended. There were plans to transition from the planned economy to the market eocnomy. In a planned economy, prices are dictated. In a market economy, prices are driven by the supply and demand in the markets. You can imagine in the planned economy post-revolution, productivity was destroyed, commodity prices were dictated to be artificially low while the demand for these commidities was overwhelmingly strong. The transition into the market economy, if done without control, would be pretty violent. So there was a policy in place called the double-track price system (價格雙軌制). For each commodity, there would be a quota. Below this quota the price is dictated, in the planned regime. Above the quota the price is market price. Arbitrages opportunities were exploited by people with relationships with the government officials (官倒). They would buy at low planned prices and sell back to the public at high market prices. A major company co-crreated by the eldest son of Deng Xiaoping was involved (中國康華發展總公司). People were angry and the double-track price system was cracking. In 1988, a price reform was in the planning, where in a short period of time the planned commodity prices were to be forcefully raised to market prices on a schedule (價格闖關). Tragically, the idea of the policy reform leaked before it was implemented. People expected everything would become much more expensive very soon, so they withdrew money from the banks and began panick-buying. Banks were going bankrupt from the mass withdrawals. The price reform was never implemented. Public discontent from these events all [contributed](https://www.frankdikotter.com/china-after-mao/){:target="_blank"} to the 1989 protests.
+
+<br/>
 <img src="/assets/2025-05-07/ideology-3.jpg" />
-...
+
+There is a long-standing ideology that all human beings ultimately desire and pursue the "Western" values: liberty, democracy, enlightenment and so on. All human beings eventually trend towards those values. After WWII, the US practiced the policy of containing China just like how the Soviet Union was contained. The strategy was based on the idea of *peaceful evolution*: due to the universal desirability of the Western values, eventually, the Chinese people would peacecfully demand democracy for China.
+
+In 1989, the CCP condemned the US for conspiring the idea of peaceful evolution by infiltrating Chinese campuses and brainwashing the students with dangerous Western ideas.
+
+<br/>
 <img src="/assets/2025-05-07/ideology-4.jpg" />
-...
+
+In merely two years after, a really strange essay, from today's standpoint, was published in *The National Interest*. Titled "[The End of History?](https://www.jstor.org/stable/24027184){:target="_blank"}", author Francis Fukuyama argued that the history is ending. With the cold war concluding, the days of great ideological struggles and big wars were over forever. Romantic and ambitious people must find new pursuits. The liberal democracy has won. Moreoever there is this idea that in the world there are developed countries and developing countries. The primary goal for the developing countries is to educate their people and raise their economic standards so that they graduate to the club of developed countries, where they embrace the values of liberal democracy.
+
+The essay came out and was not well received, but at the end of the same year the Berlin Wall fell. The essay was propelled to stratosphere.
+
+<br/>
 <img src="/assets/2025-05-07/ideology-5.jpg" />
-...
+
+But is it really so? Has the history really ended then? With the wisdom of the hindsight, we know that the global financial crisis happened in 2009. What happened was that credit expanded, there were lots of money slushing around seeking returns. Real estates were
+
+
+<br/>
 
 ## Global consensus argmin geopolitics
+
+<br/>
 <img src="/assets/2025-05-07/ethereum-1.jpg" />
 ...
 <img src="/assets/2025-05-07/ethereum-2.jpg" />
