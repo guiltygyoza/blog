@@ -2,10 +2,10 @@
   "buildCommand": "bundle install && jekyll build",
   "outputDirectory": "_site",
   "framework": "jekyll",
-  "installCommand": "curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash && ~/.rbenv/bin/rbenv install 3.0.2 && ~/.rbenv/bin/rbenv global 3.0.2 && gem install bundler:2.2.33 && bundle install",
+  "installCommand": "curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash && ~/.rbenv/bin/rbenv install 3.3.8 && ~/.rbenv/bin/rbenv global 3.3.8 && gem install bundler:2.5.11 && bundle install",
   "build": {
     "env": {
-      "RUBY_VERSION": "3.0.2"
+      "RUBY_VERSION": "3.3.8"
     }
   }
 }
