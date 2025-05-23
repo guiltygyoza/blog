@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "NYCU BDAF guest lecture"
-date:   2025-05-07 00:00:00 -0500
+date:   2025-05-22 00:00:00 -0500
 categories: idea
-published: false
+published: true
 ---
 
-With the kind invitation of Martinet at Quantstamp/Zircuit, I gave a guest lecture at [NYCU](https://www.nycu.edu.tw/nycu/en/index){:target="_blank"} in Taiwan for the [Blockchain Development and FinTech course](https://github.com/bdaf-course/bdaf-coursepage){:target="_blank"}. I took the liberty to define the nature my talk, one that situates the advent of decentralized consensus networks in a bigger picture. I challenged myself to trace things back 100 years, back to when Hitler became the leader of the reestablished Nazi party. Why?
+With the kind invitation of Martinet at Quantstamp/Zircuit, I gave a guest lecture at [NYCU](https://www.nycu.edu.tw/nycu/en/index){:target="_blank"} in Taiwan for the [Blockchain Development and FinTech course](https://github.com/bdaf-course/bdaf-coursepage){:target="_blank"}, on May 6. I took the liberty to define the nature my talk, one that situates the advent of decentralized consensus networks in a bigger picture. I challenged myself to trace things back 100 years, back to when Hitler became the leader of the reestablished Nazi party. Why?
 
 "*Chancellor on brink of second bailout for banks*" was engraved into the genesis block of Bitcoin. This industry was born from the invention of a global digital ledger that explicitly wishes to disassociates itself from the governments of the world. Why? On the streets, one would have no trouble finding a large number of answers - the issue with the dollar's worth, US debts and so on. Case in point, just over the last few days the industry's timeline is filled with comments about the [downgrade of US credit rating](https://www.wsj.com/economy/central-banking/u-s-loses-last-triple-a-credit-rating-bfcbae5d){:target="_blank"} and the rising of bond yields.
 
@@ -187,9 +187,9 @@ David Graeber, author of *Debt: The First 5000 Years*, argued that despite the U
 
 ## Global consensus argmin geopolitics
 
-So we have seen many examples. When some people owe some other people money and geopolitical interests are involved, lots of people end up getting hurt badly in one way or another.
+So we have seen many examples. When some people owe some other people money and (geo)political interests are involved, lots of people end up getting hurt badly in one way or another.
 
-Which bears the question: can we design a global system where the influence of geopolitics is minimized? In this system, we want no ambiguity as to what exactly has happened. It would operate as the global, canonical book of truths. Its access would be open to all without discremination. Its correctness endures even when facing the strong-arming of entites as powerful as nation states.
+Which bears the question: can we design a global system where the influence of (geo)politics is minimized? In this system, we want no ambiguity as to what exactly has happened. It would operate as the global, canonical book of truths. Its access would be open to all without discremination. Its correctness endures even when facing the strong-arming of entites as powerful as nation states.
 
 Let's talk about Ethereum.
 
@@ -265,63 +265,183 @@ I think these design choices really illuminate what Ethereum is designed for.
 
 I want to move on to the topic of coordination avoidance.
 
-At first glance it might sound very strange. After all, global consensus is all about coordination, right? We are in a network, you tell my what you've seen, I tell you what I've seen, and let's cryptographically signed on things to find agreement. So why avoiding coordination?
+At first glance it might sound very strange. After all, global consensus is all about coordination, right? We are in a network, you tell me what you've seen, I tell you what I've seen, and let's cryptographically signed on things to find agreement. So why avoiding coordination?
 
 <br/>
 <img src="/assets/2025-05-07/crdt-1.jpg" />
 
+I want to go back to 1989. This is Tim Berners-Lee, who invented the World Wide Web at CERN.
+
+The idea of the Web was not just a read-only Web. In the 90s, a bunch of people were running blogs and static sites. The Web was effectively a big catalog of static information, you can publish things and people read them. Most people were reading them, few were writing.
+
+The original browser written by Tim Berners-Lee actually wanted to have a feature where people could edit HTML documents within the the browser and publish their changes to the sites. The Web actually wanted to be read-and-write kind of system.
+
+But it was difficult, because what happens when two people want to write to the same site at the same time? Whose changes are accepted? This was not a trivial problem.
 
 <br/>
 <img src="/assets/2025-05-07/crdt-2.jpg" />
 
-...
+In 2006, a company called Writerly, which basically created a collaborative document editing application on the Web, was acquired by Google. The same year Google acquired Youtube, so the Writerly acquisition was paid much less attention.
+
+It later culminated in the Google Doc product. What is Google Doc? It is a collaborative document right? You can see each other's cursor in the document and type at the same time, mutating the same document. The important thing here is the document must somehow guarantee that everyone is seeing the same thing. Because if two editors of the same doc are seeing different versions, Google Doc effectively stops working, and they might as well be editing different documents, or forks.
+
+So this consistency problem is very important.
 
 <br/>
 <img src="/assets/2025-05-07/crdt-3.jpg" />
 
-...
+It used a technology that was rooted back in 1989 called *operational transformation* (OT).
+
+It works like this. If I do something to this piece of data and tell you about it, you need to transform it first in a specific way before applying it to your copy of the data.
+
+Interesing side note. There's something called the Lorentz Transform in modern physics. You have multiple frames of references observing the same physical phenomena. Physical observables have to be transformed to preserve the physical laws across these frames of references. So abstractly you can say that something similar is involved in operational transformation.
 
 <br/>
 <img src="/assets/2025-05-07/crdt-4.jpg" />
 
-...
+In 2005, papers started to be published that were titled "without operational transformation". The idea is that OT has been great, but we want to do more. We want to make rich text concurrently editable, and generally perform operations that are more complex than character insertions and deletions.
 
 <br/>
 <img src="/assets/2025-05-07/crdt-5.jpg" />
-...
+
+How do we do that? Eventually the research efforts converged to the technique of CRDT, which stands for Conflict-free Replicated Data Type. It's a data type that is replicated into many many copies, and all these copies are always mergeable with one another and you always get the same result regardless of the merging order. That means you don't have to coordinate.The system of copies become consistent merely by information exchanges.
+
+There's idempotency and commutativty in this kind of system.
+
+<br/>
 <img src="/assets/2025-05-07/crdt-6.jpg" />
-...
+
+Sort of the ultimate limitation of all distributed systems (geo-distributed ones) is that the speed of light is not fast enough (with respect to how fast different actors are introducing changes in different parts of the system).
+
+It takes about 130ms for light to travel half way around the world. So if you have different people at different places on the planet, changing their copies of the same piece of data at a period that's smaller than 130ms, they start seeing different views. You have to reconcile that. The speed of light is a physical limitation that we cannot yet surpass.
+
+<br/>
 <img src="/assets/2025-05-07/crdt-7.jpg" />
-...
+
+The idea of why CRDT works is sort of formalized in this paper about the CALM theorem. CALM stands for Consistency as Logical Monotonicity.
+
+The idea is that if your application only grows in size, meaning it only adds information, never destroy information (which also mean the application runs on monotonic logic), your application is safe under concurrent operations. That's the CALM theorem.
+
+<br/>
 <img src="/assets/2025-05-07/crdt-8.jpg" />
-...
+
+CRDT is in the wild.
+
+Figma uses a CRDT-like approach for its multiplayer feature. [HackMD](hackmd.io){:target="_blank"} originally used OT and now also uses CRDT.
+
+Redis offers a geo-distributed large scale database service that uses CRDT to reconcile changes. OrbitDB is an open-source CRDT database built on libp2p, a p2p networking stack from Protocol Labs, the company behind IPFS and Filecoin.
+
+On the bottom of the slide these are open source libraries for you to build Web apps using CRDT. Automerge, Gun js, and Yjs, an approach that was also implemented in Python (Ypy) and Rust (Yrs). There are more.
+
+<br/>
 <img src="/assets/2025-05-07/crdt-9.jpg" />
-...
+
+So we decided to test how well this works. This was done by Topology two years ago. We thought, ok CRDTs allow documents t be edited concurrently, but what about game states? Make a mental jump from document state to game state.
+
+This game prototype was running at 30 frames per second, built on Yjs on top of WebRTC as network transport. Each penguin was controlled by a team member of Topology from their laptop. Laptops were connected in a p2p mesh by WebRTC.
+
+<br/>
 <img src="/assets/2025-05-07/crdt-10.jpg" />
-...
+
+In terms of commercialization in Web3, Farcaster famously originated as a social network built on CRDT.
+
+<br/>
 <img src="/assets/2025-05-07/crdt-11.jpg" />
-...
+
+I want to bring this up to wrap up this section. Local-first conference happened last May in Berlin, also happening this year.
+
+Local-first is the idea that we should be able to use our cloud applications despite being disconnected from the cloud. It may sound weird. But for example today if I use ChatGPT, I prompt the AI and switch off my Internet connection and switch it back on, I won't get the AI response. I have to reset the session and prompt again. In local-first paradigm, if I disconnect and reconnect to the cloud, I [re-sync and find out the AI has been working without interruption](https://electric-sql.com/blog/2025/04/09/building-ai-apps-on-sync){:target="_blank"}.
+
+There's this drive to think about promoting and proposing the local-first paradigm to the IETF for standardization. THe basic idea is that CRDT is great for making a distributed application *multiplayer*. Let's make the Web read & write by default by formalizing CRDTs into the Internet protocol stack. Martin Kleppmann, the professor who authored the book on the right, suggested that we would need a couple years more before pursuing the standardization discussion. We haven't seen enough experiments in the wild, and still need some time to explore design trade-offs. Better understanding and broader adoption is the predecessor to standardization. So we might be only a few years away before multiplayer software blossom across the Internet.
+
+<br/>
 
 ## Ethereum congress
+
+So what can this mean for Web 3? I want to propose a little radical idea. The "Ethereum congress".
+
+<br/>
 <img src="/assets/2025-05-07/congress-1.jpg" />
-...
+
+It comes from the idea that we have different designs of the constitutional government in the world. In Taiwan we have the five powers, in the US they go with the three powers. But the common idea is you have the balance and porportion of powers. The legislative function can create laws. The executive function can approve new laws and reject them. The judicial system is an enforcing function making sure the laws are carried out correctly. That's the three-power system.
+
+<br/>
 <img src="/assets/2025-05-07/congress-2.jpg" />
-...
+
+One can argue that Ethereum today has its law, which is the spec. The L1 spec, consisting of the [consensus spec](https://github.com/ethereum/consensus-specs){:target="_blank"} and the [execution spec](https://github.com/ethereum/execution-specs){:target="_blank"}, is the law of Ethereum. Client teams implement this law, turning it into working software, at the stewardship and empowerment of the Ethereum Foundation. All the full nodes are running the client software, effectively operating the Ethereum's judicial function together. It works like a decentralized judicial system. There's not a single dominant judge. All the full nodes collectively enforce the law of Ethereum, the L1 protocol.
+
+<br/>
 <img src="/assets/2025-05-07/congress-3.jpg" />
-...
+
+But one can ask: where's the legistlative function? There's an [EIP process](https://eips.ethereum.org/EIPS/eip-1){:target="_blank"}. EIPs are like bills. People discuss them on Discord (Eth R&D server), a Web forum ([ethereum-magicians dot org](https://ethereum-magicians.org/){:target="_blank"}), as well as in the pull requests of the [EIP Github repo](https://github.com/ethereum/EIPs){:target="_blank"}.
+
+So we are discussing the laws of a Web3 system on the Web2 rail, in a fragmented way. Imagine the American revolutionaries conducting meetings on Victorian land.
+
+<br/>
 <img src="/assets/2025-05-07/congress-4.jpg" />
-...
+
+Let's look at the EIP process. Every proposal goes through this state machine. What's possibly problematic, or beneficial depending on how you see it, is the state transition function. The arrows in the diagram. Who gets to decide when a EIP transitions from draft status to review status? The process may not be super clear.
+
+I'm not suggesting or advocating for changing this radically, nor proposing a concrete plan for doing so. One view goes that Ethereum is way too early to be formalized. Because a formalized system attracts all kinds of attack. So this founder-driven spirit, people-driven culture with great alignment, closely safeguarding the system is important. The benevolent dictator. But one can argue that given what has happened in the past few years, maybe we are at the precipice of needing to reform the Ethereum legislature.
+
+<br/>
 <img src="/assets/2025-05-07/congress-5.jpg" />
-...
+
+Maybe we can learn from the legislature of constitutional governments. Lots of wisdom has gone into the design of such systems despite the public image of the [legislative yuan](https://www.ly.gov.tw/Engpages/index.aspx){:target="_blank"} (立法院) where the legislators sometimes fight in ridiculous ways.
+
+<br/>
 <img src="/assets/2025-05-07/congress-6.jpg" />
-...
+
+Maybe we can also look at how the US designed their legislative process. You have two houses, the Senate and the House, where the representatives of the people reside. There's an elaborate process for proposing, discussing, and passing the bills.
+
+Obviously I'm not suggesting we should skeuomorphically copy these systems into Web3. Merely saying that wisdom can be gained from looking into the past.
+
+<br/>
 <img src="/assets/2025-05-07/congress-7.jpg" />
-...
+
+We're maybe far from ready to design such an elaborate system for Ethereum legislature, but we can start from designing the Floor first.
+
+The Floor of the House is the location, where representatives come together, discuss the benefits and trade-offs of the bills, negotiate party interests and so on. One may argue that CRDT is great for implementing the digital House Floor, beacuse (1) it doesn't make sense to put the Floor onchain, which is too slow and expensive for frequent exchanges (possibly with rich data) required in legislative discussions (2) CRDT can be fast, responsive, and cheap, while being built as a strongly decentralized system.
+
+So maybe CRDT can graduate from the technology behind Google Docs to the technology for discussing digital laws.
+
+<br/>
 
 ## Empires
+
+I want to end the talk about the idea of empires.
+
+<br/>
 <img src="/assets/2025-05-07/empires-1.jpg" />
-...
+
+Historically, empires come and go. The Ottoman Empire last about 600 years. The Qing Empire lasted about 300 years. They don't tend to last forever.
+
+<br/>
 <img src="/assets/2025-05-07/empires-2.jpg" />
-...
+
+This comes from the Foundation series by Isaac Asimov. There's a galactic empire that governs the entire galaxy. I thought it might be interesting to read a little bit from the book itself, what happened to this great empire, specifically to Trantor, the central governing planet:
+
+> *Time had been when the insubstantial ribbons of control had stretched out from its metal coating to the very edges of stardom. It had been a single city, housing four hundred billion administrators; the mightiest capital that had ever been.*
+
+> *Until the decay of the Empire eventually reached it and in the Great Sack of a century ago, its drooping powers had been bent back upon themselves and broken forever. In the blasting ruin of death, the metal shell that circled the planet wrinkled and crumpled into an aching mock of its own grandeur.*
+
+> *The survivors tore up the metal plating and sold it to other planets for seed and cattle. The soil was uncovered once more and the planet returned to its beginnings. In the spreading areas of primitive agriculture, it forgot its intricate and colosal past.*
+
+Empires don't tend to last forever. But I'm not trying to say that we should be looking at empire-like countries of our world and consider they may be expiring. For American people maybe they should really think about the finitude of being and the problems they face collectively. Complacency is dangerous. But more importantly for Taiwanese and all these other countries that are dependent on the empire in place. We have the US dollar that denominates a lot of the world economies. So this is about the well-being of individuals and systems that are relying on a stable world order.
+
+<br/>
 <img src="/assets/2025-05-07/empires-3.jpg" />
-...
+
+I want to end the talk in this. This is a book published by Alex Karp and his colleague at Palantir. Palantir is a Silicon Valley startup founded about two decades ago. The main idea of the book is that digital technology is powerful and it should contribute to the protection of national interests, specifically the American ones. Palantir works closely with the US military to provide actionable intelligence and recommendations to the soldiers on the ground.
+
+On the right, this is a heated discussion that happened on Twitter less than a month ago. Palantir started working with the US immigration office to apply their technology to real-time identification of those who overstay their Visas so they can be deported as soon as possible. Paul Graham of Y Combinator said that talented programmers have many avenues to invest their talents rather than working for the police state.
+
+I'm not here to argue for one side or the other. The point here is, it has been proven that the history has not ended after all.
+
+We are at a very interesting time in 2025. We are seeing rising nationalism and receding globalization. It's clear that the history is still going. I hope this talk has demonstrated to you that blockchain was invented with censorship resistance against actors as powerful as nation states. Clearly this is a kind of system that is participating in the evolution of our time.
+
+So I think that as you are learning about how blockchains work and how to build applications and so on, this is actually much more than choosing a career. Whether you like it or not, blockchain is participating in the evolution of the world order in front of our eyes. And I think especially in stable times, your actions have outsized influence in the world.
+
+But I think the most dangerous thing is that we forget about the history, and we make the same mistake. We don't have a very good brain. "*We have Paleolithic emotions, medieval institutions and godlike technology.*" If we forget about the past, we'll probably be repeating our mistakes, and the future prospect won't be very good.
+
+Lastly, I'm not suggesting any particular views or manipulating you into particular beliefs. My intention is to present what I see, as objective as possible. I hope that every one of you would be open-minded, develop your own view of where the world has come from and where it is going, and from that view you get to choose your path with wisdom.
