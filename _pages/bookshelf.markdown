@@ -13,6 +13,7 @@ permalink: /bookshelf/
 - *Seven Brief Lessons on Physics* - Carlo Rovelli.
 - *Bird by Bird* - Anne Lamott.
 - *The Case for Mars* - Robert Zubrin.
+- *Thirty Years that Shook Physics* - George Gamow.
 
 ### Fiction
 - *The Foundation series* - Isaac Asimov.
