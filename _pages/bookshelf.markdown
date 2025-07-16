@@ -16,6 +16,7 @@ permalink: /bookshelf/
 - *Thirty Years that Shook Physics* - George Gamow.
 - *The Expulsion of Others* - Byung-Chul Han.
 - *How Big Things Get Done* - Bent Flyvbjerg & Dan Gardner.
+- *The Future of Humanity* - Michio Kaku.
 
 ### Fiction
 - *Foundation* - Isaac Asimov.
