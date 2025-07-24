@@ -17,6 +17,7 @@ permalink: /bookshelf/
 - *The Expulsion of Others* - Byung-Chul Han.
 - *How Big Things Get Done* - Bent Flyvbjerg & Dan Gardner.
 - *The Future of Humanity* - Michio Kaku.
+- *Star Warriors* - William Broad.
 
 ### Fiction
 - *Foundation* - Isaac Asimov.
