@@ -20,7 +20,7 @@ permalink: /bookshelf/
 - *[Star Warriors](https://www.goodreads.com/book/show/1007849.Star_Warriors){:target="_blank"}: A Penetrating Look into the Lives of the Young Scientists Behind Our Space Age Weaponry* - William Broad.
 - [*What Life Could Mean to You*](https://www.goodreads.com/book/show/6997679){:target="_blank"} - Alfred Adler.
 - [*The Five Dysfunctions of a Team*](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team){:target="_blank"} - Patrick Lencioni.
-- [*Breaking Through: My Life in Science*](https://www.goodreads.com/book/show/123025953-breaking-through){:target="_blank"} - Katalin Karikó.
+- [*Breaking Through*](https://www.goodreads.com/book/show/123025953-breaking-through){:target="_blank"}: My Life in Science - Katalin Karikó.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
