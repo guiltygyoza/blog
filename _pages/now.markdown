@@ -9,7 +9,7 @@ permalink: /now/
 {: refdef}
 
 ### Last updated
-Jul. 2024 in Taipei, Taiwan
+Aug. 2025 in Taipei, Taiwan
 
 ### Current focus
-Adding RAM to the world computer.
+Exploration.
