@@ -22,6 +22,7 @@ permalink: /bookshelf/
 - [*The Five Dysfunctions of a Team*](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team){:target="_blank"} - Patrick Lencioni.
 - [*Breaking Through*](https://www.goodreads.com/book/show/123025953-breaking-through){:target="_blank"}: My Life in Science - Katalin Karikó.
 - [*The Five Temptations of a CEO*](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO){:target="_blank"}: A Leadership Fable - Patrick Lencioni.
+- [*Silos, Politics and Turf Wars*](https://www.goodreads.com/en/book/show/19129.Silos_Politics_and_Turf_Wars){:target="_blank"}: A Leadership Fable About Destroying the Barriers That Turn Colleagues Into Competitors - Patrick Lencioni.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
